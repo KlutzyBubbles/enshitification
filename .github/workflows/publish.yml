@@ -38,7 +38,7 @@ jobs:
         run: |
           npm ci
           npm run build
-          mkdir build
+          mkdir -p build
           cp index.html build/index.html
           cp css/styles.css build/css/styles.css
 
