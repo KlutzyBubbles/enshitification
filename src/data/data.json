@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "id": "test-company",
+      "name": "Test Company",
+      "description": "A company of tests",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=TC"
+    },
+    {
+      "id": "streamflix",
+      "name": "StreamFlix",
+      "description": "A video streaming service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=SF"
+    }
+  ],
+  "shittified": [
+    {
+      "company": "test-company",
+      "date": "25/12/2014",
+      "type": "feature-removal",
+      "title": "Removed offline downloads",
+      "description": "Explain what was removed or changed. This field can be as long as needed — it's shown in full inside the detail dialog.",
+      "source": "https://example.com/article"
+    },
+    {
+      "company": "streamflix",
+      "date": "14/03/2019",
+      "type": "price-increase",
+      "title": "Raised the standard plan by 25%",
+      "description": "The standard tier jumped from $9.99 to $12.49 a month with no added features, blamed on 'content investment'."
+    },
+    {
+      "company": "streamflix",
+      "date": "02/06/2021",
+      "type": "free-removal",
+      "title": "Ended free ad-supported tier",
+      "description": "The previously free, ad-supported tier was discontinued; existing users were migrated to a paid plan automatically."
+    }
+  ]
+}

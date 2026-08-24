@@ -1,0 +1,24 @@
+{
+  "name": "enshitification",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "dev": "npm run build && npm run start",
+    "clean": "rimraf build *.tgz --glob",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run clean && npm run typecheck && esbuild src/main.ts --bundle --outfile=build/js/main.js --format=esm --target=es2020",
+    "watch": "esbuild src/main.ts --bundle --outfile=build/js/main.js --format=esm --target=es2020 --watch"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "eslint": "^10.9.0",
+    "rimraf": "^6.1.3",
+    "typescript": "^7.0.2"
+  }
+}

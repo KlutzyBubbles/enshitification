@@ -1,0 +1,40 @@
+{
+    "companies": [
+        {
+            "id": "amazon",
+            "name": "Amazon",
+            "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=AZ"
+        },
+        {
+            "id": "netflix",
+            "name": "Netflix",
+            "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=NX"
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=G"
+        }
+    ],
+    "shittified": [
+        {
+            "company": "amazon",
+            "date": "2/07/2024",
+            "type": "ad-injection",
+            "title": "Added ads to existing Prime Video plans",
+            "description": "Ads were introduced to existing Prime Video plans, with a more expensive plan introduced that removes the ads. See additional links for the ACCC filings for unfair contract terms.",
+            "source": "https://www.aboutamazon.com.au/primevideoupdate",
+            "additional": [
+                "https://www.accc.gov.au/media-release/amazon-in-court-for-introducing-ads-to-prime-video-using-allegedly-unfair-contract-terms"
+            ]
+        },
+        {
+            "company": "netflix",
+            "date": "12/02/2025",
+            "type": "price-increase",
+            "title": "Removed basic plan in place of standard",
+            "source": "https://pricetimeline.com/data/price/netflix",
+            "description": "With the removal of the $12.99 basic plan, in order to get the same features users are pushed to the standard $20.99 plan or deal with ads ontop of paying $9.99 a month. The addition of the cheaper ads plan was a decent option for those who wanted to pay less, but the removal of the basic plan has turned it into enshitification."
+        }
+    ]
+}

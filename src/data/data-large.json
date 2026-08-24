@@ -1,0 +1,3562 @@
+{
+  "companies": [
+    {
+      "id": "streamflix",
+      "name": "StreamFlix",
+      "description": "A video streaming service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=ST"
+    },
+    {
+      "id": "chatterbox",
+      "name": "ChatterBox",
+      "description": "A social messaging app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CH"
+    },
+    {
+      "id": "shopmart",
+      "name": "ShopMart",
+      "description": "An online marketplace",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=SH"
+    },
+    {
+      "id": "clouddrop",
+      "name": "CloudDrop",
+      "description": "Cloud file storage",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CL"
+    },
+    {
+      "id": "ridewave",
+      "name": "RideWave",
+      "description": "A rideshare app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=RI"
+    },
+    {
+      "id": "mealbox",
+      "name": "MealBox",
+      "description": "Food delivery service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=ME"
+    },
+    {
+      "id": "tunewell",
+      "name": "TuneWell",
+      "description": "Music streaming platform",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=TU"
+    },
+    {
+      "id": "photoloop",
+      "name": "PhotoLoop",
+      "description": "Photo sharing social network",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=PH"
+    },
+    {
+      "id": "worksuite",
+      "name": "WorkSuite",
+      "description": "Productivity and office software",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=WO"
+    },
+    {
+      "id": "linkedout",
+      "name": "LinkedOut",
+      "description": "Professional networking site",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=LI"
+    },
+    {
+      "id": "bookish",
+      "name": "Bookish",
+      "description": "E-book and audiobook platform",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=BO"
+    },
+    {
+      "id": "gamevault",
+      "name": "GameVault",
+      "description": "PC game storefront and launcher",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=GA"
+    },
+    {
+      "id": "fitpulse",
+      "name": "FitPulse",
+      "description": "Fitness tracking app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=FI"
+    },
+    {
+      "id": "mapquestly",
+      "name": "MapQuestly",
+      "description": "Navigation and maps app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=MA"
+    },
+    {
+      "id": "inboxly",
+      "name": "Inboxly",
+      "description": "Email hosting provider",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=IN"
+    },
+    {
+      "id": "dateswipe",
+      "name": "DateSwipe",
+      "description": "Dating app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=DA"
+    },
+    {
+      "id": "homehub",
+      "name": "HomeHub",
+      "description": "Smart home device maker",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=HO"
+    },
+    {
+      "id": "carsharex",
+      "name": "CarShareX",
+      "description": "Car sharing service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CA"
+    },
+    {
+      "id": "newsfeedr",
+      "name": "Newsfeedr",
+      "description": "News aggregator app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=NE"
+    },
+    {
+      "id": "videohost",
+      "name": "VideoHost",
+      "description": "Video hosting platform",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=VI"
+    },
+    {
+      "id": "payquick",
+      "name": "PayQuick",
+      "description": "Payments and wallet app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=PA"
+    },
+    {
+      "id": "cloudmail",
+      "name": "CloudMail",
+      "description": "Webmail provider",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CL"
+    },
+    {
+      "id": "stockpile",
+      "name": "Stockpile",
+      "description": "Investing and trading app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=ST"
+    },
+    {
+      "id": "travelnest",
+      "name": "TravelNest",
+      "description": "Travel booking site",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=TR"
+    },
+    {
+      "id": "petpal",
+      "name": "PetPal",
+      "description": "Pet sitting marketplace",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=PE"
+    },
+    {
+      "id": "studybuddy",
+      "name": "StudyBuddy",
+      "description": "Online learning platform",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=ST"
+    },
+    {
+      "id": "cloudnotes",
+      "name": "CloudNotes",
+      "description": "Note-taking app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CL"
+    },
+    {
+      "id": "streamcast",
+      "name": "StreamCast",
+      "description": "Podcast hosting platform",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=ST"
+    },
+    {
+      "id": "grocerygo",
+      "name": "GroceryGo",
+      "description": "Grocery delivery app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=GR"
+    },
+    {
+      "id": "ticketrun",
+      "name": "TicketRun",
+      "description": "Event ticketing platform",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=TI"
+    },
+    {
+      "id": "cloudpix",
+      "name": "CloudPix",
+      "description": "Photo backup service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CL"
+    },
+    {
+      "id": "jobfinder",
+      "name": "JobFinder",
+      "description": "Job listing site",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=JO"
+    },
+    {
+      "id": "weathernow",
+      "name": "WeatherNow",
+      "description": "Weather forecasting app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=WE"
+    },
+    {
+      "id": "budgetize",
+      "name": "Budgetize",
+      "description": "Personal finance app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=BU"
+    },
+    {
+      "id": "chatrelay",
+      "name": "ChatRelay",
+      "description": "Team chat software",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CH"
+    },
+    {
+      "id": "filmreel",
+      "name": "FilmReel",
+      "description": "Movie ticket and review app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=FI"
+    },
+    {
+      "id": "recipebox",
+      "name": "RecipeBox",
+      "description": "Recipe sharing app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=RE"
+    },
+    {
+      "id": "parkeasy",
+      "name": "ParkEasy",
+      "description": "Parking spot finder app",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=PA"
+    },
+    {
+      "id": "cloudsign",
+      "name": "CloudSign",
+      "description": "E-signature service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=CL"
+    },
+    {
+      "id": "hometeam",
+      "name": "HomeTeam",
+      "description": "Home security camera service",
+      "icon": "https://placehold.co/64x64/1e2124/ece7dc?text=HO"
+    }
+  ],
+  "shittified": [
+    {
+      "company": "photoloop",
+      "date": "19/02/2025",
+      "type": "feature-removal",
+      "title": "Killed offline access to third-party integrations, requiring a constant connection",
+      "description": "Killed offline access to third-party integrations, requiring a constant connection."
+    },
+    {
+      "company": "shopmart",
+      "date": "19/08/2015",
+      "type": "feature-removal",
+      "title": "Removed the ability to disable tracking without warning",
+      "description": "Removed the ability to disable tracking without warning."
+    },
+    {
+      "company": "streamflix",
+      "date": "03/02/2018",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the export tool",
+      "description": "Started requiring phone verification to keep using the export tool."
+    },
+    {
+      "company": "tunewell",
+      "date": "18/02/2020",
+      "type": "free-removal",
+      "title": "Started charging for the referral program that was previously included for everyone",
+      "description": "Started charging for the referral program that was previously included for everyone."
+    },
+    {
+      "company": "hometeam",
+      "date": "28/02/2017",
+      "type": "account-restriction",
+      "title": "Limited notification controls access unless users upgrade to a paid account",
+      "description": "Limited notification controls access unless users upgrade to a paid account.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "tunewell",
+      "date": "22/04/2019",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in browser extensions after promising an ad-light experience",
+      "description": "Increased ad frequency in browser extensions after promising an ad-light experience."
+    },
+    {
+      "company": "ridewave",
+      "date": "21/05/2020",
+      "type": "algorithm-change",
+      "title": "Reordered search filters to favor engagement bait over content users follow",
+      "description": "Reordered search filters to favor engagement bait over content users follow."
+    },
+    {
+      "company": "inboxly",
+      "date": "07/02/2016",
+      "type": "data-selling",
+      "title": "Began sharing the desktop app usage data with undisclosed third parties",
+      "description": "Began sharing the desktop app usage data with undisclosed third parties."
+    },
+    {
+      "company": "payquick",
+      "date": "24/04/2012",
+      "type": "price-increase",
+      "title": "Added a mandatory processing fee that effectively raises the price by 60%",
+      "description": "Added a mandatory processing fee that effectively raises the price by 60%."
+    },
+    {
+      "company": "chatrelay",
+      "date": "16/09/2012",
+      "type": "free-removal",
+      "title": "Locked previously free the export tool exports behind the premium plan",
+      "description": "Locked previously free the export tool exports behind the premium plan.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "clouddrop",
+      "date": "20/07/2020",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the classic dashboard",
+      "description": "Started requiring phone verification to keep using the classic dashboard."
+    },
+    {
+      "company": "budgetize",
+      "date": "14/05/2011",
+      "type": "free-removal",
+      "title": "Locked previously free offline downloads exports behind the premium plan",
+      "description": "Locked previously free offline downloads exports behind the premium plan.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ticketrun",
+      "date": "07/10/2024",
+      "type": "feature-removal",
+      "title": "Killed offline access to third-party integrations, requiring a constant connection",
+      "description": "Killed offline access to third-party integrations, requiring a constant connection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "travelnest",
+      "date": "12/02/2008",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using search filters",
+      "description": "Started requiring phone verification to keep using search filters."
+    },
+    {
+      "company": "dateswipe",
+      "date": "05/03/2025",
+      "type": "feature-removal",
+      "title": "Deprecated the notification controls feature, pushing users toward the paid tier",
+      "description": "Deprecated the notification controls feature, pushing users toward the paid tier."
+    },
+    {
+      "company": "filmreel",
+      "date": "22/07/2017",
+      "type": "price-increase",
+      "title": "Quietly increased Family subscription pricing in most regions",
+      "description": "Quietly increased Family subscription pricing in most regions."
+    },
+    {
+      "company": "grocerygo",
+      "date": "18/10/2008",
+      "type": "algorithm-change",
+      "title": "Adjusted unlimited storage ranking to boost the company's own products first",
+      "description": "Adjusted unlimited storage ranking to boost the company's own products first.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "parkeasy",
+      "date": "03/06/2009",
+      "type": "price-increase",
+      "title": "Raised the Premium plan price by 10% with no new features",
+      "description": "Raised the Premium plan price by 10% with no new features."
+    },
+    {
+      "company": "dateswipe",
+      "date": "07/07/2023",
+      "type": "free-removal",
+      "title": "Removed the free trial for Family, requiring payment upfront",
+      "description": "Removed the free trial for Family, requiring payment upfront.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "tunewell",
+      "date": "13/01/2011",
+      "type": "data-selling",
+      "title": "Began sharing ad-free browsing usage data with undisclosed third parties",
+      "description": "Began sharing ad-free browsing usage data with undisclosed third parties."
+    },
+    {
+      "company": "tunewell",
+      "date": "15/05/2013",
+      "type": "price-increase",
+      "title": "Introduced a new Family tier that costs 60% more for what used to be standard",
+      "description": "Introduced a new Family tier that costs 60% more for what used to be standard.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ridewave",
+      "date": "16/07/2013",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the desktop app, even for paying subscribers",
+      "description": "Started inserting ads into the desktop app, even for paying subscribers."
+    },
+    {
+      "company": "mapquestly",
+      "date": "10/08/2016",
+      "type": "account-restriction",
+      "title": "Limited the desktop app access unless users upgrade to a paid account",
+      "description": "Limited the desktop app access unless users upgrade to a paid account."
+    },
+    {
+      "company": "filmreel",
+      "date": "24/10/2009",
+      "type": "data-selling",
+      "title": "Removed the opt-out for widget support data collection",
+      "description": "Removed the opt-out for widget support data collection."
+    },
+    {
+      "company": "clouddrop",
+      "date": "28/02/2024",
+      "type": "data-selling",
+      "title": "Began sharing the desktop app usage data with undisclosed third parties",
+      "description": "Began sharing the desktop app usage data with undisclosed third parties.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ridewave",
+      "date": "22/07/2010",
+      "type": "algorithm-change",
+      "title": "Changed the unlimited edits algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the unlimited edits algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "recipebox",
+      "date": "22/03/2020",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in third-party integrations",
+      "description": "Silently deprioritized links leaving the platform in third-party integrations."
+    },
+    {
+      "company": "ticketrun",
+      "date": "05/05/2024",
+      "type": "free-removal",
+      "title": "Ended the free tier of offline downloads, moving it entirely behind a paywall",
+      "description": "Ended the free tier of offline downloads, moving it entirely behind a paywall."
+    },
+    {
+      "company": "ridewave",
+      "date": "22/05/2025",
+      "type": "price-increase",
+      "title": "Quietly increased Standard subscription pricing in most regions",
+      "description": "Quietly increased Standard subscription pricing in most regions.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "worksuite",
+      "date": "11/12/2014",
+      "type": "free-removal",
+      "title": "Ended the free tier of unlimited storage, moving it entirely behind a paywall",
+      "description": "Ended the free tier of unlimited storage, moving it entirely behind a paywall.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "homehub",
+      "date": "11/01/2009",
+      "type": "algorithm-change",
+      "title": "Adjusted third-party integrations ranking to boost the company's own products first",
+      "description": "Adjusted third-party integrations ranking to boost the company's own products first.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "homehub",
+      "date": "05/12/2010",
+      "type": "price-increase",
+      "title": "Added a mandatory service fee that effectively raises the price by 50%",
+      "description": "Added a mandatory service fee that effectively raises the price by 50%."
+    },
+    {
+      "company": "shopmart",
+      "date": "12/05/2009",
+      "type": "account-restriction",
+      "title": "Limited notification controls access unless users upgrade to a paid account",
+      "description": "Limited notification controls access unless users upgrade to a paid account.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "stockpile",
+      "date": "14/03/2013",
+      "type": "price-increase",
+      "title": "Introduced a new Plus tier that costs 50% more for what used to be standard",
+      "description": "Introduced a new Plus tier that costs 50% more for what used to be standard.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "gamevault",
+      "date": "28/07/2011",
+      "type": "data-selling",
+      "title": "Began sharing the export tool usage data with undisclosed third parties",
+      "description": "Began sharing the export tool usage data with undisclosed third parties.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudpix",
+      "date": "07/11/2008",
+      "type": "price-increase",
+      "title": "Introduced a new Plus tier that costs 30% more for what used to be standard",
+      "description": "Introduced a new Plus tier that costs 30% more for what used to be standard."
+    },
+    {
+      "company": "cloudmail",
+      "date": "06/05/2011",
+      "type": "free-removal",
+      "title": "Ended the free tier of third-party integrations, moving it entirely behind a paywall",
+      "description": "Ended the free tier of third-party integrations, moving it entirely behind a paywall."
+    },
+    {
+      "company": "homehub",
+      "date": "13/02/2024",
+      "type": "feature-removal",
+      "title": "Removed the ability to use the app without an account without warning",
+      "description": "Removed the ability to use the app without an account without warning."
+    },
+    {
+      "company": "fitpulse",
+      "date": "11/11/2010",
+      "type": "free-removal",
+      "title": "Ended the free tier of the export tool, moving it entirely behind a paywall",
+      "description": "Ended the free tier of the export tool, moving it entirely behind a paywall."
+    },
+    {
+      "company": "payquick",
+      "date": "10/12/2020",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling the free tier data to advertisers",
+      "description": "Updated the privacy policy to allow selling the free tier data to advertisers."
+    },
+    {
+      "company": "worksuite",
+      "date": "10/01/2025",
+      "type": "price-increase",
+      "title": "Added a mandatory convenience fee that effectively raises the price by 20%",
+      "description": "Added a mandatory convenience fee that effectively raises the price by 20%."
+    },
+    {
+      "company": "mapquestly",
+      "date": "03/11/2013",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in browser extensions after promising an ad-light experience",
+      "description": "Increased ad frequency in browser extensions after promising an ad-light experience."
+    },
+    {
+      "company": "weathernow",
+      "date": "05/04/2015",
+      "type": "data-selling",
+      "title": "Removed the opt-out for the referral program data collection",
+      "description": "Removed the opt-out for the referral program data collection.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "shopmart",
+      "date": "13/08/2020",
+      "type": "price-increase",
+      "title": "Added a mandatory platform fee that effectively raises the price by 60%",
+      "description": "Added a mandatory platform fee that effectively raises the price by 60%.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "linkedout",
+      "date": "02/08/2024",
+      "type": "data-selling",
+      "title": "Removed the opt-out for offline downloads data collection",
+      "description": "Removed the opt-out for offline downloads data collection."
+    },
+    {
+      "company": "dateswipe",
+      "date": "27/07/2024",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using browser extensions",
+      "description": "Started requiring phone verification to keep using browser extensions."
+    },
+    {
+      "company": "grocerygo",
+      "date": "15/05/2015",
+      "type": "price-increase",
+      "title": "Added a mandatory convenience fee that effectively raises the price by 25%",
+      "description": "Added a mandatory convenience fee that effectively raises the price by 25%.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "23/07/2015",
+      "type": "price-increase",
+      "title": "Quietly increased Plus subscription pricing in most regions",
+      "description": "Quietly increased Plus subscription pricing in most regions.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "mapquestly",
+      "date": "13/07/2014",
+      "type": "feature-removal",
+      "title": "Pulled the the export tool option from the settings menu with no migration path",
+      "description": "Pulled the the export tool option from the settings menu with no migration path."
+    },
+    {
+      "company": "chatterbox",
+      "date": "18/07/2020",
+      "type": "account-restriction",
+      "title": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "cloudsign",
+      "date": "22/06/2020",
+      "type": "price-increase",
+      "title": "Added a mandatory service fee that effectively raises the price by 50%",
+      "description": "Added a mandatory service fee that effectively raises the price by 50%."
+    },
+    {
+      "company": "bookish",
+      "date": "14/11/2010",
+      "type": "account-restriction",
+      "title": "Limited the classic dashboard access unless users upgrade to a paid account",
+      "description": "Limited the classic dashboard access unless users upgrade to a paid account.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ticketrun",
+      "date": "25/06/2018",
+      "type": "price-increase",
+      "title": "Raised the Pro plan price by 40% with no new features",
+      "description": "Raised the Pro plan price by 40% with no new features."
+    },
+    {
+      "company": "carsharex",
+      "date": "21/04/2019",
+      "type": "account-restriction",
+      "title": "Limited third-party integrations access unless users upgrade to a paid account",
+      "description": "Limited third-party integrations access unless users upgrade to a paid account.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "shopmart",
+      "date": "22/08/2012",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using unlimited edits",
+      "description": "Started requiring phone verification to keep using unlimited edits.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "recipebox",
+      "date": "19/02/2017",
+      "type": "price-increase",
+      "title": "Added a mandatory platform fee that effectively raises the price by 20%",
+      "description": "Added a mandatory platform fee that effectively raises the price by 20%.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "videohost",
+      "date": "25/12/2011",
+      "type": "algorithm-change",
+      "title": "Adjusted customer support chat ranking to boost the company's own products first",
+      "description": "Adjusted customer support chat ranking to boost the company's own products first."
+    },
+    {
+      "company": "cloudsign",
+      "date": "21/09/2010",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using notification controls",
+      "description": "Started requiring phone verification to keep using notification controls."
+    },
+    {
+      "company": "streamflix",
+      "date": "06/07/2012",
+      "type": "account-restriction",
+      "title": "Limited widget support access unless users upgrade to a paid account",
+      "description": "Limited widget support access unless users upgrade to a paid account."
+    },
+    {
+      "company": "carsharex",
+      "date": "15/05/2010",
+      "type": "algorithm-change",
+      "title": "Adjusted browser extensions ranking to boost the company's own products first",
+      "description": "Adjusted browser extensions ranking to boost the company's own products first.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ticketrun",
+      "date": "12/04/2023",
+      "type": "algorithm-change",
+      "title": "Adjusted background playback ranking to boost the company's own products first",
+      "description": "Adjusted background playback ranking to boost the company's own products first."
+    },
+    {
+      "company": "cloudmail",
+      "date": "14/12/2015",
+      "type": "free-removal",
+      "title": "Locked previously free third-party integrations exports behind the premium plan",
+      "description": "Locked previously free third-party integrations exports behind the premium plan."
+    },
+    {
+      "company": "filmreel",
+      "date": "08/05/2010",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using widget support",
+      "description": "Started requiring phone verification to keep using widget support."
+    },
+    {
+      "company": "dateswipe",
+      "date": "15/12/2019",
+      "type": "free-removal",
+      "title": "Locked previously free ad-free browsing exports behind the premium plan",
+      "description": "Locked previously free ad-free browsing exports behind the premium plan."
+    },
+    {
+      "company": "videohost",
+      "date": "06/12/2025",
+      "type": "free-removal",
+      "title": "Capped free unlimited storage usage to a fraction of what it used to allow",
+      "description": "Capped free unlimited storage usage to a fraction of what it used to allow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "mapquestly",
+      "date": "12/04/2017",
+      "type": "data-selling",
+      "title": "Began sharing third-party integrations usage data with undisclosed third parties",
+      "description": "Began sharing third-party integrations usage data with undisclosed third parties.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "videohost",
+      "date": "23/05/2025",
+      "type": "feature-removal",
+      "title": "Killed offline access to search filters, requiring a constant connection",
+      "description": "Killed offline access to search filters, requiring a constant connection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "jobfinder",
+      "date": "02/03/2018",
+      "type": "feature-removal",
+      "title": "Removed the ability to share content externally without warning",
+      "description": "Removed the ability to share content externally without warning."
+    },
+    {
+      "company": "cloudpix",
+      "date": "10/10/2012",
+      "type": "feature-removal",
+      "title": "Removed the ability to export your data without warning",
+      "description": "Removed the ability to export your data without warning.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "dateswipe",
+      "date": "28/05/2022",
+      "type": "feature-removal",
+      "title": "Shut down the classic the export tool interface in favor of a slower redesign",
+      "description": "Shut down the classic the export tool interface in favor of a slower redesign."
+    },
+    {
+      "company": "streamcast",
+      "date": "03/11/2016",
+      "type": "free-removal",
+      "title": "Locked previously free the referral program exports behind the premium plan",
+      "description": "Locked previously free the referral program exports behind the premium plan.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "dateswipe",
+      "date": "02/05/2023",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Standard plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Standard plan, tripling the renewal cost.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "18/02/2021",
+      "type": "data-selling",
+      "title": "Began sharing browser extensions usage data with undisclosed third parties",
+      "description": "Began sharing browser extensions usage data with undisclosed third parties.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "linkedout",
+      "date": "15/02/2022",
+      "type": "free-removal",
+      "title": "Capped free public API access usage to a fraction of what it used to allow",
+      "description": "Capped free public API access usage to a fraction of what it used to allow."
+    },
+    {
+      "company": "studybuddy",
+      "date": "11/12/2021",
+      "type": "free-removal",
+      "title": "Locked previously free search filters exports behind the premium plan",
+      "description": "Locked previously free search filters exports behind the premium plan."
+    },
+    {
+      "company": "homehub",
+      "date": "17/08/2013",
+      "type": "feature-removal",
+      "title": "Removed the ability to use the app without an account without warning",
+      "description": "Removed the ability to use the app without an account without warning."
+    },
+    {
+      "company": "carsharex",
+      "date": "11/07/2019",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Premium plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Premium plan, tripling the renewal cost."
+    },
+    {
+      "company": "tunewell",
+      "date": "15/01/2025",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using background playback",
+      "description": "Started requiring phone verification to keep using background playback.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "payquick",
+      "date": "17/04/2009",
+      "type": "free-removal",
+      "title": "Started charging for unlimited storage that was previously included for everyone",
+      "description": "Started charging for unlimited storage that was previously included for everyone."
+    },
+    {
+      "company": "hometeam",
+      "date": "23/08/2017",
+      "type": "account-restriction",
+      "title": "Limited browser extensions access unless users upgrade to a paid account",
+      "description": "Limited browser extensions access unless users upgrade to a paid account."
+    },
+    {
+      "company": "photoloop",
+      "date": "03/07/2025",
+      "type": "feature-removal",
+      "title": "Killed offline access to the referral program, requiring a constant connection",
+      "description": "Killed offline access to the referral program, requiring a constant connection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "photoloop",
+      "date": "08/08/2023",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the classic dashboard, even for paying subscribers",
+      "description": "Started inserting ads into the classic dashboard, even for paying subscribers."
+    },
+    {
+      "company": "filmreel",
+      "date": "26/06/2021",
+      "type": "price-increase",
+      "title": "Added a mandatory processing fee that effectively raises the price by 20%",
+      "description": "Added a mandatory processing fee that effectively raises the price by 20%."
+    },
+    {
+      "company": "carsharex",
+      "date": "16/09/2022",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the free tier",
+      "description": "Started requiring phone verification to keep using the free tier."
+    },
+    {
+      "company": "cloudmail",
+      "date": "02/07/2015",
+      "type": "algorithm-change",
+      "title": "Adjusted browser extensions ranking to boost the company's own products first",
+      "description": "Adjusted browser extensions ranking to boost the company's own products first."
+    },
+    {
+      "company": "cloudpix",
+      "date": "19/09/2012",
+      "type": "data-selling",
+      "title": "Began sharing customer support chat usage data with undisclosed third parties",
+      "description": "Began sharing customer support chat usage data with undisclosed third parties."
+    },
+    {
+      "company": "tunewell",
+      "date": "05/11/2021",
+      "type": "account-restriction",
+      "title": "Limited unlimited storage access unless users upgrade to a paid account",
+      "description": "Limited unlimited storage access unless users upgrade to a paid account.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudpix",
+      "date": "11/07/2025",
+      "type": "account-restriction",
+      "title": "Limited background playback access unless users upgrade to a paid account",
+      "description": "Limited background playback access unless users upgrade to a paid account."
+    },
+    {
+      "company": "chatrelay",
+      "date": "25/02/2021",
+      "type": "feature-removal",
+      "title": "Shut down the classic public API access interface in favor of a slower redesign",
+      "description": "Shut down the classic public API access interface in favor of a slower redesign.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "grocerygo",
+      "date": "14/06/2019",
+      "type": "price-increase",
+      "title": "Quietly increased Basic subscription pricing in most regions",
+      "description": "Quietly increased Basic subscription pricing in most regions.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "dateswipe",
+      "date": "28/10/2010",
+      "type": "algorithm-change",
+      "title": "Adjusted notification controls ranking to boost the company's own products first",
+      "description": "Adjusted notification controls ranking to boost the company's own products first."
+    },
+    {
+      "company": "hometeam",
+      "date": "09/08/2016",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling widget support data to advertisers",
+      "description": "Updated the privacy policy to allow selling widget support data to advertisers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "ticketrun",
+      "date": "09/12/2021",
+      "type": "free-removal",
+      "title": "Locked previously free direct messaging exports behind the premium plan",
+      "description": "Locked previously free direct messaging exports behind the premium plan."
+    },
+    {
+      "company": "videohost",
+      "date": "23/05/2026",
+      "type": "price-increase",
+      "title": "Added a mandatory processing fee that effectively raises the price by 25%",
+      "description": "Added a mandatory processing fee that effectively raises the price by 25%."
+    },
+    {
+      "company": "chatterbox",
+      "date": "20/04/2017",
+      "type": "account-restriction",
+      "title": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "inboxly",
+      "date": "02/08/2017",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling the referral program data to advertisers",
+      "description": "Updated the privacy policy to allow selling the referral program data to advertisers."
+    },
+    {
+      "company": "travelnest",
+      "date": "26/03/2014",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling public API access data to advertisers",
+      "description": "Updated the privacy policy to allow selling public API access data to advertisers."
+    },
+    {
+      "company": "travelnest",
+      "date": "03/08/2011",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in direct messaging",
+      "description": "Silently deprioritized links leaving the platform in direct messaging.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "inboxly",
+      "date": "18/05/2008",
+      "type": "account-restriction",
+      "title": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "ticketrun",
+      "date": "20/01/2023",
+      "type": "free-removal",
+      "title": "Started charging for notification controls that was previously included for everyone",
+      "description": "Started charging for notification controls that was previously included for everyone."
+    },
+    {
+      "company": "payquick",
+      "date": "02/03/2011",
+      "type": "algorithm-change",
+      "title": "Reordered public API access to favor engagement bait over content users follow",
+      "description": "Reordered public API access to favor engagement bait over content users follow.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "videohost",
+      "date": "24/11/2019",
+      "type": "ad-injection",
+      "title": "Started inserting ads into unlimited storage, even for paying subscribers",
+      "description": "Started inserting ads into unlimited storage, even for paying subscribers."
+    },
+    {
+      "company": "cloudnotes",
+      "date": "23/01/2016",
+      "type": "algorithm-change",
+      "title": "Reordered the export tool to favor engagement bait over content users follow",
+      "description": "Reordered the export tool to favor engagement bait over content users follow."
+    },
+    {
+      "company": "mapquestly",
+      "date": "09/07/2009",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to unlimited edits that can't be skipped or muted",
+      "description": "Added autoplay video ads to unlimited edits that can't be skipped or muted.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "photoloop",
+      "date": "05/04/2018",
+      "type": "account-restriction",
+      "title": "Limited public API access access unless users upgrade to a paid account",
+      "description": "Limited public API access access unless users upgrade to a paid account."
+    },
+    {
+      "company": "mapquestly",
+      "date": "01/10/2012",
+      "type": "feature-removal",
+      "title": "Shut down the classic chronological feed interface in favor of a slower redesign",
+      "description": "Shut down the classic chronological feed interface in favor of a slower redesign."
+    },
+    {
+      "company": "linkedout",
+      "date": "26/06/2008",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Standard plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Standard plan, tripling the renewal cost.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "parkeasy",
+      "date": "24/02/2024",
+      "type": "free-removal",
+      "title": "Ended the free tier of direct messaging, moving it entirely behind a paywall",
+      "description": "Ended the free tier of direct messaging, moving it entirely behind a paywall.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudpix",
+      "date": "26/12/2009",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in the mobile app after promising an ad-light experience",
+      "description": "Increased ad frequency in the mobile app after promising an ad-light experience."
+    },
+    {
+      "company": "videohost",
+      "date": "15/12/2023",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the desktop app, even for paying subscribers",
+      "description": "Started inserting ads into the desktop app, even for paying subscribers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "17/10/2020",
+      "type": "free-removal",
+      "title": "Locked previously free the classic dashboard exports behind the premium plan",
+      "description": "Locked previously free the classic dashboard exports behind the premium plan."
+    },
+    {
+      "company": "ticketrun",
+      "date": "14/04/2022",
+      "type": "algorithm-change",
+      "title": "Adjusted unlimited storage ranking to boost the company's own products first",
+      "description": "Adjusted unlimited storage ranking to boost the company's own products first."
+    },
+    {
+      "company": "ticketrun",
+      "date": "22/03/2019",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to unlimited storage that can't be skipped or muted",
+      "description": "Added autoplay video ads to unlimited storage that can't be skipped or muted."
+    },
+    {
+      "company": "ridewave",
+      "date": "19/01/2025",
+      "type": "feature-removal",
+      "title": "Removed the ability to use the app without an account without warning",
+      "description": "Removed the ability to use the app without an account without warning."
+    },
+    {
+      "company": "filmreel",
+      "date": "04/06/2017",
+      "type": "free-removal",
+      "title": "Ended the free tier of the export tool, moving it entirely behind a paywall",
+      "description": "Ended the free tier of the export tool, moving it entirely behind a paywall."
+    },
+    {
+      "company": "weathernow",
+      "date": "19/05/2011",
+      "type": "price-increase",
+      "title": "Introduced a new Standard tier that costs 15% more for what used to be standard",
+      "description": "Introduced a new Standard tier that costs 15% more for what used to be standard.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "streamcast",
+      "date": "23/05/2013",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "cloudmail",
+      "date": "24/02/2008",
+      "type": "free-removal",
+      "title": "Ended the free tier of direct messaging, moving it entirely behind a paywall",
+      "description": "Ended the free tier of direct messaging, moving it entirely behind a paywall."
+    },
+    {
+      "company": "mapquestly",
+      "date": "20/10/2018",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to browser extensions that can't be skipped or muted",
+      "description": "Added autoplay video ads to browser extensions that can't be skipped or muted.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "clouddrop",
+      "date": "20/08/2021",
+      "type": "price-increase",
+      "title": "Introduced a new Basic tier that costs 15% more for what used to be standard",
+      "description": "Introduced a new Basic tier that costs 15% more for what used to be standard."
+    },
+    {
+      "company": "cloudnotes",
+      "date": "22/11/2017",
+      "type": "free-removal",
+      "title": "Capped free the mobile app usage to a fraction of what it used to allow",
+      "description": "Capped free the mobile app usage to a fraction of what it used to allow."
+    },
+    {
+      "company": "jobfinder",
+      "date": "07/05/2014",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in the desktop app",
+      "description": "Silently deprioritized links leaving the platform in the desktop app.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "homehub",
+      "date": "18/07/2012",
+      "type": "free-removal",
+      "title": "Started charging for unlimited storage that was previously included for everyone",
+      "description": "Started charging for unlimited storage that was previously included for everyone.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "weathernow",
+      "date": "28/02/2022",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in public API access",
+      "description": "Silently deprioritized links leaving the platform in public API access."
+    },
+    {
+      "company": "recipebox",
+      "date": "26/03/2018",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to the export tool that can't be skipped or muted",
+      "description": "Added autoplay video ads to the export tool that can't be skipped or muted."
+    },
+    {
+      "company": "ticketrun",
+      "date": "13/10/2021",
+      "type": "account-restriction",
+      "title": "Locked accounts out of ad-free browsing pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of ad-free browsing pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "mealbox",
+      "date": "04/11/2024",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in background playback after promising an ad-light experience",
+      "description": "Increased ad frequency in background playback after promising an ad-light experience."
+    },
+    {
+      "company": "weathernow",
+      "date": "07/05/2012",
+      "type": "price-increase",
+      "title": "Quietly increased Premium subscription pricing in most regions",
+      "description": "Quietly increased Premium subscription pricing in most regions.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "cloudsign",
+      "date": "21/11/2026",
+      "type": "price-increase",
+      "title": "Raised the Premium plan price by 60% with no new features",
+      "description": "Raised the Premium plan price by 60% with no new features."
+    },
+    {
+      "company": "payquick",
+      "date": "10/11/2022",
+      "type": "account-restriction",
+      "title": "Locked accounts out of background playback pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of background playback pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "parkeasy",
+      "date": "12/01/2009",
+      "type": "feature-removal",
+      "title": "Discontinued the mobile app support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued the mobile app support for third-party apps, forcing everyone into the official app."
+    },
+    {
+      "company": "ridewave",
+      "date": "21/10/2022",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling the referral program data to advertisers",
+      "description": "Updated the privacy policy to allow selling the referral program data to advertisers.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "payquick",
+      "date": "03/12/2018",
+      "type": "algorithm-change",
+      "title": "Adjusted the mobile app ranking to boost the company's own products first",
+      "description": "Adjusted the mobile app ranking to boost the company's own products first."
+    },
+    {
+      "company": "gamevault",
+      "date": "14/07/2017",
+      "type": "feature-removal",
+      "title": "Deprecated the browser extensions feature, pushing users toward the paid tier",
+      "description": "Deprecated the browser extensions feature, pushing users toward the paid tier."
+    },
+    {
+      "company": "cloudsign",
+      "date": "24/05/2017",
+      "type": "feature-removal",
+      "title": "Killed offline access to background playback, requiring a constant connection",
+      "description": "Killed offline access to background playback, requiring a constant connection."
+    },
+    {
+      "company": "linkedout",
+      "date": "20/03/2020",
+      "type": "free-removal",
+      "title": "Ended the free tier of notification controls, moving it entirely behind a paywall",
+      "description": "Ended the free tier of notification controls, moving it entirely behind a paywall.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "videohost",
+      "date": "10/06/2008",
+      "type": "algorithm-change",
+      "title": "Adjusted background playback ranking to boost the company's own products first",
+      "description": "Adjusted background playback ranking to boost the company's own products first.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "mapquestly",
+      "date": "17/02/2017",
+      "type": "free-removal",
+      "title": "Removed the free trial for Standard, requiring payment upfront",
+      "description": "Removed the free trial for Standard, requiring payment upfront."
+    },
+    {
+      "company": "budgetize",
+      "date": "27/03/2013",
+      "type": "feature-removal",
+      "title": "Killed offline access to background playback, requiring a constant connection",
+      "description": "Killed offline access to background playback, requiring a constant connection."
+    },
+    {
+      "company": "bookish",
+      "date": "26/12/2017",
+      "type": "data-selling",
+      "title": "Began sharing the desktop app usage data with undisclosed third parties",
+      "description": "Began sharing the desktop app usage data with undisclosed third parties."
+    },
+    {
+      "company": "inboxly",
+      "date": "25/05/2022",
+      "type": "algorithm-change",
+      "title": "Reordered the free tier to favor engagement bait over content users follow",
+      "description": "Reordered the free tier to favor engagement bait over content users follow."
+    },
+    {
+      "company": "weathernow",
+      "date": "18/06/2023",
+      "type": "algorithm-change",
+      "title": "Adjusted direct messaging ranking to boost the company's own products first",
+      "description": "Adjusted direct messaging ranking to boost the company's own products first.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "budgetize",
+      "date": "27/03/2024",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the free tier",
+      "description": "Started requiring phone verification to keep using the free tier."
+    },
+    {
+      "company": "mealbox",
+      "date": "08/06/2024",
+      "type": "price-increase",
+      "title": "Added a mandatory convenience fee that effectively raises the price by 50%",
+      "description": "Added a mandatory convenience fee that effectively raises the price by 50%."
+    },
+    {
+      "company": "mealbox",
+      "date": "10/01/2012",
+      "type": "free-removal",
+      "title": "Capped free offline downloads usage to a fraction of what it used to allow",
+      "description": "Capped free offline downloads usage to a fraction of what it used to allow."
+    },
+    {
+      "company": "worksuite",
+      "date": "27/04/2016",
+      "type": "account-restriction",
+      "title": "Locked accounts out of widget support pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of widget support pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "filmreel",
+      "date": "02/02/2017",
+      "type": "data-selling",
+      "title": "Removed the opt-out for the mobile app data collection",
+      "description": "Removed the opt-out for the mobile app data collection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "cloudnotes",
+      "date": "08/10/2024",
+      "type": "data-selling",
+      "title": "Removed the opt-out for browser extensions data collection",
+      "description": "Removed the opt-out for browser extensions data collection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "12/09/2010",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the referral program, even for paying subscribers",
+      "description": "Started inserting ads into the referral program, even for paying subscribers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "budgetize",
+      "date": "01/12/2016",
+      "type": "algorithm-change",
+      "title": "Changed the customer support chat algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the customer support chat algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "ridewave",
+      "date": "11/09/2019",
+      "type": "free-removal",
+      "title": "Capped free unlimited storage usage to a fraction of what it used to allow",
+      "description": "Capped free unlimited storage usage to a fraction of what it used to allow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ticketrun",
+      "date": "02/04/2017",
+      "type": "data-selling",
+      "title": "Began sharing direct messaging usage data with undisclosed third parties",
+      "description": "Began sharing direct messaging usage data with undisclosed third parties.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "shopmart",
+      "date": "12/05/2014",
+      "type": "free-removal",
+      "title": "Started charging for the mobile app that was previously included for everyone",
+      "description": "Started charging for the mobile app that was previously included for everyone.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudmail",
+      "date": "16/03/2018",
+      "type": "free-removal",
+      "title": "Ended the free tier of ad-free browsing, moving it entirely behind a paywall",
+      "description": "Ended the free tier of ad-free browsing, moving it entirely behind a paywall."
+    },
+    {
+      "company": "travelnest",
+      "date": "10/09/2013",
+      "type": "account-restriction",
+      "title": "Locked accounts out of third-party integrations pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of third-party integrations pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "tunewell",
+      "date": "15/06/2022",
+      "type": "feature-removal",
+      "title": "Discontinued the free tier support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued the free tier support for third-party apps, forcing everyone into the official app.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "stockpile",
+      "date": "26/09/2019",
+      "type": "algorithm-change",
+      "title": "Adjusted third-party integrations ranking to boost the company's own products first",
+      "description": "Adjusted third-party integrations ranking to boost the company's own products first.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "chatterbox",
+      "date": "13/06/2019",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Basic plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Basic plan, tripling the renewal cost."
+    },
+    {
+      "company": "shopmart",
+      "date": "17/03/2026",
+      "type": "algorithm-change",
+      "title": "Reordered browser extensions to favor engagement bait over content users follow",
+      "description": "Reordered browser extensions to favor engagement bait over content users follow."
+    },
+    {
+      "company": "studybuddy",
+      "date": "18/07/2024",
+      "type": "free-removal",
+      "title": "Started charging for unlimited edits that was previously included for everyone",
+      "description": "Started charging for unlimited edits that was previously included for everyone.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "homehub",
+      "date": "28/03/2011",
+      "type": "account-restriction",
+      "title": "Limited browser extensions access unless users upgrade to a paid account",
+      "description": "Limited browser extensions access unless users upgrade to a paid account.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "grocerygo",
+      "date": "10/09/2025",
+      "type": "price-increase",
+      "title": "Added a mandatory service fee that effectively raises the price by 40%",
+      "description": "Added a mandatory service fee that effectively raises the price by 40%."
+    },
+    {
+      "company": "bookish",
+      "date": "26/04/2012",
+      "type": "data-selling",
+      "title": "Removed the opt-out for direct messaging data collection",
+      "description": "Removed the opt-out for direct messaging data collection."
+    },
+    {
+      "company": "chatterbox",
+      "date": "13/05/2010",
+      "type": "free-removal",
+      "title": "Locked previously free notification controls exports behind the premium plan",
+      "description": "Locked previously free notification controls exports behind the premium plan."
+    },
+    {
+      "company": "budgetize",
+      "date": "22/08/2022",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to notification controls that can't be skipped or muted",
+      "description": "Added autoplay video ads to notification controls that can't be skipped or muted."
+    },
+    {
+      "company": "stockpile",
+      "date": "05/09/2011",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Standard plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Standard plan, tripling the renewal cost."
+    },
+    {
+      "company": "bookish",
+      "date": "18/11/2014",
+      "type": "price-increase",
+      "title": "Quietly increased Plus subscription pricing in most regions",
+      "description": "Quietly increased Plus subscription pricing in most regions."
+    },
+    {
+      "company": "worksuite",
+      "date": "20/11/2013",
+      "type": "data-selling",
+      "title": "Began sharing the referral program usage data with undisclosed third parties",
+      "description": "Began sharing the referral program usage data with undisclosed third parties."
+    },
+    {
+      "company": "cloudmail",
+      "date": "14/10/2014",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the desktop app pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the desktop app pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "chatterbox",
+      "date": "23/02/2022",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in the free tier after promising an ad-light experience",
+      "description": "Increased ad frequency in the free tier after promising an ad-light experience.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "bookish",
+      "date": "11/12/2018",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to widget support that can't be skipped or muted",
+      "description": "Added autoplay video ads to widget support that can't be skipped or muted."
+    },
+    {
+      "company": "studybuddy",
+      "date": "09/02/2022",
+      "type": "price-increase",
+      "title": "Quietly increased Family subscription pricing in most regions",
+      "description": "Quietly increased Family subscription pricing in most regions."
+    },
+    {
+      "company": "dateswipe",
+      "date": "19/06/2013",
+      "type": "price-increase",
+      "title": "Raised the Plus plan price by 50% with no new features",
+      "description": "Raised the Plus plan price by 50% with no new features."
+    },
+    {
+      "company": "fitpulse",
+      "date": "03/01/2023",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using widget support",
+      "description": "Started requiring phone verification to keep using widget support."
+    },
+    {
+      "company": "weathernow",
+      "date": "20/08/2017",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside chronological feed search with no clear labeling",
+      "description": "Rolled out sponsored results inside chronological feed search with no clear labeling."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "02/06/2020",
+      "type": "algorithm-change",
+      "title": "Changed the unlimited storage algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the unlimited storage algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "clouddrop",
+      "date": "25/08/2024",
+      "type": "algorithm-change",
+      "title": "Reordered ad-free browsing to favor engagement bait over content users follow",
+      "description": "Reordered ad-free browsing to favor engagement bait over content users follow."
+    },
+    {
+      "company": "carsharex",
+      "date": "18/06/2019",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "linkedout",
+      "date": "11/12/2012",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Pro plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Pro plan, tripling the renewal cost."
+    },
+    {
+      "company": "budgetize",
+      "date": "20/07/2013",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside the referral program search with no clear labeling",
+      "description": "Rolled out sponsored results inside the referral program search with no clear labeling."
+    },
+    {
+      "company": "parkeasy",
+      "date": "11/06/2008",
+      "type": "free-removal",
+      "title": "Locked previously free the mobile app exports behind the premium plan",
+      "description": "Locked previously free the mobile app exports behind the premium plan.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudnotes",
+      "date": "16/10/2009",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in offline downloads",
+      "description": "Silently deprioritized links leaving the platform in offline downloads.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "budgetize",
+      "date": "04/12/2026",
+      "type": "data-selling",
+      "title": "Removed the opt-out for the referral program data collection",
+      "description": "Removed the opt-out for the referral program data collection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "chatterbox",
+      "date": "16/10/2024",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in the export tool after promising an ad-light experience",
+      "description": "Increased ad frequency in the export tool after promising an ad-light experience.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "worksuite",
+      "date": "18/08/2013",
+      "type": "algorithm-change",
+      "title": "Reordered search filters to favor engagement bait over content users follow",
+      "description": "Reordered search filters to favor engagement bait over content users follow."
+    },
+    {
+      "company": "chatrelay",
+      "date": "08/05/2025",
+      "type": "free-removal",
+      "title": "Started charging for the referral program that was previously included for everyone",
+      "description": "Started charging for the referral program that was previously included for everyone."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "19/02/2017",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling widget support data to advertisers",
+      "description": "Updated the privacy policy to allow selling widget support data to advertisers."
+    },
+    {
+      "company": "petpal",
+      "date": "21/08/2019",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in the classic dashboard after promising an ad-light experience",
+      "description": "Increased ad frequency in the classic dashboard after promising an ad-light experience."
+    },
+    {
+      "company": "cloudpix",
+      "date": "08/04/2026",
+      "type": "price-increase",
+      "title": "Introduced a new Plus tier that costs 30% more for what used to be standard",
+      "description": "Introduced a new Plus tier that costs 30% more for what used to be standard.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "budgetize",
+      "date": "25/11/2011",
+      "type": "price-increase",
+      "title": "Introduced a new Basic tier that costs 50% more for what used to be standard",
+      "description": "Introduced a new Basic tier that costs 50% more for what used to be standard.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "streamflix",
+      "date": "10/06/2017",
+      "type": "algorithm-change",
+      "title": "Reordered the export tool to favor engagement bait over content users follow",
+      "description": "Reordered the export tool to favor engagement bait over content users follow.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "27/01/2013",
+      "type": "data-selling",
+      "title": "Removed the opt-out for unlimited edits data collection",
+      "description": "Removed the opt-out for unlimited edits data collection."
+    },
+    {
+      "company": "jobfinder",
+      "date": "21/08/2017",
+      "type": "price-increase",
+      "title": "Quietly increased Basic subscription pricing in most regions",
+      "description": "Quietly increased Basic subscription pricing in most regions."
+    },
+    {
+      "company": "budgetize",
+      "date": "24/03/2018",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside the mobile app search with no clear labeling",
+      "description": "Rolled out sponsored results inside the mobile app search with no clear labeling."
+    },
+    {
+      "company": "homehub",
+      "date": "28/10/2013",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling offline downloads data to advertisers",
+      "description": "Updated the privacy policy to allow selling offline downloads data to advertisers."
+    },
+    {
+      "company": "streamcast",
+      "date": "08/06/2023",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in public API access",
+      "description": "Silently deprioritized links leaving the platform in public API access.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "homehub",
+      "date": "12/11/2016",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside browser extensions search with no clear labeling",
+      "description": "Rolled out sponsored results inside browser extensions search with no clear labeling.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "clouddrop",
+      "date": "10/11/2011",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling browser extensions data to advertisers",
+      "description": "Updated the privacy policy to allow selling browser extensions data to advertisers."
+    },
+    {
+      "company": "hometeam",
+      "date": "18/12/2021",
+      "type": "price-increase",
+      "title": "Introduced a new Pro tier that costs 20% more for what used to be standard",
+      "description": "Introduced a new Pro tier that costs 20% more for what used to be standard."
+    },
+    {
+      "company": "chatrelay",
+      "date": "04/10/2010",
+      "type": "account-restriction",
+      "title": "Locked accounts out of chronological feed pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of chronological feed pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "filmreel",
+      "date": "04/08/2024",
+      "type": "algorithm-change",
+      "title": "Reordered notification controls to favor engagement bait over content users follow",
+      "description": "Reordered notification controls to favor engagement bait over content users follow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "parkeasy",
+      "date": "15/07/2024",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the mobile app, even for paying subscribers",
+      "description": "Started inserting ads into the mobile app, even for paying subscribers."
+    },
+    {
+      "company": "clouddrop",
+      "date": "07/12/2008",
+      "type": "algorithm-change",
+      "title": "Adjusted the free tier ranking to boost the company's own products first",
+      "description": "Adjusted the free tier ranking to boost the company's own products first."
+    },
+    {
+      "company": "ridewave",
+      "date": "10/01/2023",
+      "type": "feature-removal",
+      "title": "Pulled the ad-free browsing option from the settings menu with no migration path",
+      "description": "Pulled the ad-free browsing option from the settings menu with no migration path."
+    },
+    {
+      "company": "gamevault",
+      "date": "22/02/2020",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the export tool",
+      "description": "Started requiring phone verification to keep using the export tool."
+    },
+    {
+      "company": "worksuite",
+      "date": "10/01/2008",
+      "type": "data-selling",
+      "title": "Began sharing unlimited storage usage data with undisclosed third parties",
+      "description": "Began sharing unlimited storage usage data with undisclosed third parties."
+    },
+    {
+      "company": "chatrelay",
+      "date": "24/04/2016",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to unlimited edits that can't be skipped or muted",
+      "description": "Added autoplay video ads to unlimited edits that can't be skipped or muted.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "shopmart",
+      "date": "20/02/2010",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the export tool pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the export tool pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "grocerygo",
+      "date": "07/09/2015",
+      "type": "algorithm-change",
+      "title": "Changed the unlimited edits algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the unlimited edits algorithm to prioritize sponsored content over relevance.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "worksuite",
+      "date": "22/03/2017",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in unlimited edits",
+      "description": "Silently deprioritized links leaving the platform in unlimited edits."
+    },
+    {
+      "company": "inboxly",
+      "date": "21/06/2009",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in third-party integrations after promising an ad-light experience",
+      "description": "Increased ad frequency in third-party integrations after promising an ad-light experience."
+    },
+    {
+      "company": "budgetize",
+      "date": "08/08/2025",
+      "type": "free-removal",
+      "title": "Removed the free trial for Standard, requiring payment upfront",
+      "description": "Removed the free trial for Standard, requiring payment upfront.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "videohost",
+      "date": "05/09/2025",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the classic dashboard pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the classic dashboard pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "dateswipe",
+      "date": "24/09/2010",
+      "type": "free-removal",
+      "title": "Capped free background playback usage to a fraction of what it used to allow",
+      "description": "Capped free background playback usage to a fraction of what it used to allow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "clouddrop",
+      "date": "22/12/2026",
+      "type": "free-removal",
+      "title": "Removed the free trial for Family, requiring payment upfront",
+      "description": "Removed the free trial for Family, requiring payment upfront."
+    },
+    {
+      "company": "mapquestly",
+      "date": "25/12/2011",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside background playback search with no clear labeling",
+      "description": "Rolled out sponsored results inside background playback search with no clear labeling."
+    },
+    {
+      "company": "dateswipe",
+      "date": "18/08/2020",
+      "type": "data-selling",
+      "title": "Removed the opt-out for chronological feed data collection",
+      "description": "Removed the opt-out for chronological feed data collection."
+    },
+    {
+      "company": "videohost",
+      "date": "12/04/2018",
+      "type": "free-removal",
+      "title": "Started charging for the mobile app that was previously included for everyone",
+      "description": "Started charging for the mobile app that was previously included for everyone."
+    },
+    {
+      "company": "cloudnotes",
+      "date": "19/10/2025",
+      "type": "feature-removal",
+      "title": "Shut down the classic unlimited edits interface in favor of a slower redesign",
+      "description": "Shut down the classic unlimited edits interface in favor of a slower redesign."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "22/11/2025",
+      "type": "price-increase",
+      "title": "Introduced a new Standard tier that costs 50% more for what used to be standard",
+      "description": "Introduced a new Standard tier that costs 50% more for what used to be standard."
+    },
+    {
+      "company": "homehub",
+      "date": "18/12/2012",
+      "type": "account-restriction",
+      "title": "Limited widget support access unless users upgrade to a paid account",
+      "description": "Limited widget support access unless users upgrade to a paid account."
+    },
+    {
+      "company": "gamevault",
+      "date": "27/03/2021",
+      "type": "algorithm-change",
+      "title": "Changed the the mobile app algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the the mobile app algorithm to prioritize sponsored content over relevance.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ridewave",
+      "date": "16/11/2023",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling offline downloads data to advertisers",
+      "description": "Updated the privacy policy to allow selling offline downloads data to advertisers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "streamflix",
+      "date": "22/12/2024",
+      "type": "algorithm-change",
+      "title": "Adjusted offline downloads ranking to boost the company's own products first",
+      "description": "Adjusted offline downloads ranking to boost the company's own products first."
+    },
+    {
+      "company": "gamevault",
+      "date": "26/05/2019",
+      "type": "feature-removal",
+      "title": "Removed the ability to disable tracking without warning",
+      "description": "Removed the ability to disable tracking without warning."
+    },
+    {
+      "company": "mealbox",
+      "date": "28/11/2010",
+      "type": "free-removal",
+      "title": "Removed the free trial for Family, requiring payment upfront",
+      "description": "Removed the free trial for Family, requiring payment upfront.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "16/02/2013",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to customer support chat that can't be skipped or muted",
+      "description": "Added autoplay video ads to customer support chat that can't be skipped or muted."
+    },
+    {
+      "company": "cloudmail",
+      "date": "03/01/2016",
+      "type": "algorithm-change",
+      "title": "Changed the the mobile app algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the the mobile app algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "chatrelay",
+      "date": "10/02/2020",
+      "type": "algorithm-change",
+      "title": "Changed the direct messaging algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the direct messaging algorithm to prioritize sponsored content over relevance.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "recipebox",
+      "date": "24/09/2010",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Premium plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Premium plan, tripling the renewal cost."
+    },
+    {
+      "company": "clouddrop",
+      "date": "09/11/2008",
+      "type": "feature-removal",
+      "title": "Pulled the unlimited edits option from the settings menu with no migration path",
+      "description": "Pulled the unlimited edits option from the settings menu with no migration path."
+    },
+    {
+      "company": "jobfinder",
+      "date": "10/10/2010",
+      "type": "price-increase",
+      "title": "Quietly increased Pro subscription pricing in most regions",
+      "description": "Quietly increased Pro subscription pricing in most regions.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ridewave",
+      "date": "03/02/2019",
+      "type": "feature-removal",
+      "title": "Discontinued the classic dashboard support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued the classic dashboard support for third-party apps, forcing everyone into the official app.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "videohost",
+      "date": "18/08/2021",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in third-party integrations after promising an ad-light experience",
+      "description": "Increased ad frequency in third-party integrations after promising an ad-light experience."
+    },
+    {
+      "company": "weathernow",
+      "date": "10/01/2020",
+      "type": "ad-injection",
+      "title": "Started inserting ads into offline downloads, even for paying subscribers",
+      "description": "Started inserting ads into offline downloads, even for paying subscribers."
+    },
+    {
+      "company": "petpal",
+      "date": "10/05/2012",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using search filters",
+      "description": "Started requiring phone verification to keep using search filters."
+    },
+    {
+      "company": "jobfinder",
+      "date": "12/02/2023",
+      "type": "price-increase",
+      "title": "Raised the Pro plan price by 30% with no new features",
+      "description": "Raised the Pro plan price by 30% with no new features."
+    },
+    {
+      "company": "dateswipe",
+      "date": "01/05/2012",
+      "type": "data-selling",
+      "title": "Removed the opt-out for widget support data collection",
+      "description": "Removed the opt-out for widget support data collection."
+    },
+    {
+      "company": "cloudmail",
+      "date": "11/05/2012",
+      "type": "account-restriction",
+      "title": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of customer support chat pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "fitpulse",
+      "date": "11/04/2026",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in direct messaging after promising an ad-light experience",
+      "description": "Increased ad frequency in direct messaging after promising an ad-light experience."
+    },
+    {
+      "company": "carsharex",
+      "date": "07/12/2022",
+      "type": "account-restriction",
+      "title": "Limited ad-free browsing access unless users upgrade to a paid account",
+      "description": "Limited ad-free browsing access unless users upgrade to a paid account."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "22/05/2015",
+      "type": "account-restriction",
+      "title": "Locked accounts out of public API access pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of public API access pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "streamcast",
+      "date": "26/01/2025",
+      "type": "account-restriction",
+      "title": "Limited public API access access unless users upgrade to a paid account",
+      "description": "Limited public API access access unless users upgrade to a paid account."
+    },
+    {
+      "company": "chatrelay",
+      "date": "22/11/2026",
+      "type": "algorithm-change",
+      "title": "Changed the unlimited storage algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the unlimited storage algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "cloudmail",
+      "date": "17/12/2024",
+      "type": "account-restriction",
+      "title": "Limited unlimited storage access unless users upgrade to a paid account",
+      "description": "Limited unlimited storage access unless users upgrade to a paid account."
+    },
+    {
+      "company": "parkeasy",
+      "date": "17/12/2026",
+      "type": "data-selling",
+      "title": "Removed the opt-out for unlimited edits data collection",
+      "description": "Removed the opt-out for unlimited edits data collection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "stockpile",
+      "date": "10/06/2012",
+      "type": "feature-removal",
+      "title": "Pulled the unlimited storage option from the settings menu with no migration path",
+      "description": "Pulled the unlimited storage option from the settings menu with no migration path."
+    },
+    {
+      "company": "ticketrun",
+      "date": "23/12/2022",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the mobile app",
+      "description": "Started requiring phone verification to keep using the mobile app."
+    },
+    {
+      "company": "payquick",
+      "date": "26/11/2011",
+      "type": "feature-removal",
+      "title": "Discontinued the desktop app support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued the desktop app support for third-party apps, forcing everyone into the official app.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "dateswipe",
+      "date": "21/07/2015",
+      "type": "algorithm-change",
+      "title": "Reordered search filters to favor engagement bait over content users follow",
+      "description": "Reordered search filters to favor engagement bait over content users follow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "gamevault",
+      "date": "13/07/2026",
+      "type": "data-selling",
+      "title": "Removed the opt-out for the export tool data collection",
+      "description": "Removed the opt-out for the export tool data collection.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mapquestly",
+      "date": "15/04/2018",
+      "type": "price-increase",
+      "title": "Quietly increased Family subscription pricing in most regions",
+      "description": "Quietly increased Family subscription pricing in most regions.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "homehub",
+      "date": "12/02/2026",
+      "type": "data-selling",
+      "title": "Began sharing the mobile app usage data with undisclosed third parties",
+      "description": "Began sharing the mobile app usage data with undisclosed third parties."
+    },
+    {
+      "company": "ticketrun",
+      "date": "10/04/2011",
+      "type": "algorithm-change",
+      "title": "Reordered the free tier to favor engagement bait over content users follow",
+      "description": "Reordered the free tier to favor engagement bait over content users follow.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "gamevault",
+      "date": "16/03/2021",
+      "type": "free-removal",
+      "title": "Capped free the mobile app usage to a fraction of what it used to allow",
+      "description": "Capped free the mobile app usage to a fraction of what it used to allow."
+    },
+    {
+      "company": "gamevault",
+      "date": "02/10/2022",
+      "type": "algorithm-change",
+      "title": "Reordered widget support to favor engagement bait over content users follow",
+      "description": "Reordered widget support to favor engagement bait over content users follow."
+    },
+    {
+      "company": "streamflix",
+      "date": "27/12/2021",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside chronological feed search with no clear labeling",
+      "description": "Rolled out sponsored results inside chronological feed search with no clear labeling."
+    },
+    {
+      "company": "jobfinder",
+      "date": "18/04/2016",
+      "type": "price-increase",
+      "title": "Raised the Basic plan price by 25% with no new features",
+      "description": "Raised the Basic plan price by 25% with no new features."
+    },
+    {
+      "company": "bookish",
+      "date": "27/09/2016",
+      "type": "account-restriction",
+      "title": "Limited notification controls access unless users upgrade to a paid account",
+      "description": "Limited notification controls access unless users upgrade to a paid account."
+    },
+    {
+      "company": "chatrelay",
+      "date": "28/05/2015",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using browser extensions",
+      "description": "Started requiring phone verification to keep using browser extensions.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "grocerygo",
+      "date": "12/12/2026",
+      "type": "free-removal",
+      "title": "Started charging for public API access that was previously included for everyone",
+      "description": "Started charging for public API access that was previously included for everyone."
+    },
+    {
+      "company": "streamcast",
+      "date": "20/05/2025",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Standard plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Standard plan, tripling the renewal cost."
+    },
+    {
+      "company": "bookish",
+      "date": "09/01/2021",
+      "type": "free-removal",
+      "title": "Started charging for the free tier that was previously included for everyone",
+      "description": "Started charging for the free tier that was previously included for everyone.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "worksuite",
+      "date": "09/11/2026",
+      "type": "price-increase",
+      "title": "Introduced a new Standard tier that costs 50% more for what used to be standard",
+      "description": "Introduced a new Standard tier that costs 50% more for what used to be standard."
+    },
+    {
+      "company": "petpal",
+      "date": "19/06/2023",
+      "type": "ad-injection",
+      "title": "Started inserting ads into public API access, even for paying subscribers",
+      "description": "Started inserting ads into public API access, even for paying subscribers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "09/08/2014",
+      "type": "data-selling",
+      "title": "Began sharing ad-free browsing usage data with undisclosed third parties",
+      "description": "Began sharing ad-free browsing usage data with undisclosed third parties."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "21/02/2009",
+      "type": "free-removal",
+      "title": "Locked previously free notification controls exports behind the premium plan",
+      "description": "Locked previously free notification controls exports behind the premium plan."
+    },
+    {
+      "company": "chatterbox",
+      "date": "10/11/2012",
+      "type": "feature-removal",
+      "title": "Deprecated the browser extensions feature, pushing users toward the paid tier",
+      "description": "Deprecated the browser extensions feature, pushing users toward the paid tier.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "carsharex",
+      "date": "21/07/2009",
+      "type": "feature-removal",
+      "title": "Killed offline access to ad-free browsing, requiring a constant connection",
+      "description": "Killed offline access to ad-free browsing, requiring a constant connection."
+    },
+    {
+      "company": "inboxly",
+      "date": "08/10/2012",
+      "type": "ad-injection",
+      "title": "Started inserting ads into unlimited storage, even for paying subscribers",
+      "description": "Started inserting ads into unlimited storage, even for paying subscribers."
+    },
+    {
+      "company": "grocerygo",
+      "date": "13/04/2010",
+      "type": "feature-removal",
+      "title": "Removed the ability to disable tracking without warning",
+      "description": "Removed the ability to disable tracking without warning.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "tunewell",
+      "date": "17/02/2012",
+      "type": "feature-removal",
+      "title": "Discontinued ad-free browsing support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued ad-free browsing support for third-party apps, forcing everyone into the official app."
+    },
+    {
+      "company": "streamflix",
+      "date": "03/04/2022",
+      "type": "algorithm-change",
+      "title": "Reordered browser extensions to favor engagement bait over content users follow",
+      "description": "Reordered browser extensions to favor engagement bait over content users follow.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "worksuite",
+      "date": "08/03/2018",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using notification controls",
+      "description": "Started requiring phone verification to keep using notification controls."
+    },
+    {
+      "company": "mealbox",
+      "date": "20/09/2014",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Family plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Family plan, tripling the renewal cost."
+    },
+    {
+      "company": "fitpulse",
+      "date": "08/02/2020",
+      "type": "data-selling",
+      "title": "Began sharing the free tier usage data with undisclosed third parties",
+      "description": "Began sharing the free tier usage data with undisclosed third parties."
+    },
+    {
+      "company": "cloudsign",
+      "date": "12/07/2026",
+      "type": "feature-removal",
+      "title": "Shut down the classic offline downloads interface in favor of a slower redesign",
+      "description": "Shut down the classic offline downloads interface in favor of a slower redesign."
+    },
+    {
+      "company": "gamevault",
+      "date": "02/01/2014",
+      "type": "account-restriction",
+      "title": "Limited public API access access unless users upgrade to a paid account",
+      "description": "Limited public API access access unless users upgrade to a paid account."
+    },
+    {
+      "company": "weathernow",
+      "date": "10/02/2016",
+      "type": "free-removal",
+      "title": "Locked previously free the export tool exports behind the premium plan",
+      "description": "Locked previously free the export tool exports behind the premium plan.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "weathernow",
+      "date": "28/12/2021",
+      "type": "price-increase",
+      "title": "Introduced a new Plus tier that costs 50% more for what used to be standard",
+      "description": "Introduced a new Plus tier that costs 50% more for what used to be standard.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "clouddrop",
+      "date": "01/02/2013",
+      "type": "price-increase",
+      "title": "Raised the Basic plan price by 60% with no new features",
+      "description": "Raised the Basic plan price by 60% with no new features.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "streamflix",
+      "date": "25/12/2012",
+      "type": "price-increase",
+      "title": "Added a mandatory processing fee that effectively raises the price by 30%",
+      "description": "Added a mandatory processing fee that effectively raises the price by 30%."
+    },
+    {
+      "company": "photoloop",
+      "date": "03/11/2026",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using background playback",
+      "description": "Started requiring phone verification to keep using background playback."
+    },
+    {
+      "company": "ticketrun",
+      "date": "19/02/2016",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in the desktop app",
+      "description": "Silently deprioritized links leaving the platform in the desktop app.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "inboxly",
+      "date": "13/06/2023",
+      "type": "data-selling",
+      "title": "Removed the opt-out for offline downloads data collection",
+      "description": "Removed the opt-out for offline downloads data collection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "gamevault",
+      "date": "24/07/2015",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using search filters",
+      "description": "Started requiring phone verification to keep using search filters."
+    },
+    {
+      "company": "carsharex",
+      "date": "02/09/2015",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using notification controls",
+      "description": "Started requiring phone verification to keep using notification controls."
+    },
+    {
+      "company": "ridewave",
+      "date": "10/04/2019",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in the free tier after promising an ad-light experience",
+      "description": "Increased ad frequency in the free tier after promising an ad-light experience."
+    },
+    {
+      "company": "videohost",
+      "date": "05/04/2025",
+      "type": "data-selling",
+      "title": "Removed the opt-out for unlimited edits data collection",
+      "description": "Removed the opt-out for unlimited edits data collection.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudnotes",
+      "date": "24/12/2020",
+      "type": "feature-removal",
+      "title": "Deprecated the search filters feature, pushing users toward the paid tier",
+      "description": "Deprecated the search filters feature, pushing users toward the paid tier."
+    },
+    {
+      "company": "tunewell",
+      "date": "02/02/2016",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Pro plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Pro plan, tripling the renewal cost.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "budgetize",
+      "date": "19/02/2020",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in browser extensions after promising an ad-light experience",
+      "description": "Increased ad frequency in browser extensions after promising an ad-light experience."
+    },
+    {
+      "company": "clouddrop",
+      "date": "15/06/2018",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside unlimited edits search with no clear labeling",
+      "description": "Rolled out sponsored results inside unlimited edits search with no clear labeling."
+    },
+    {
+      "company": "inboxly",
+      "date": "15/08/2013",
+      "type": "feature-removal",
+      "title": "Deprecated the the classic dashboard feature, pushing users toward the paid tier",
+      "description": "Deprecated the the classic dashboard feature, pushing users toward the paid tier."
+    },
+    {
+      "company": "cloudnotes",
+      "date": "03/02/2016",
+      "type": "feature-removal",
+      "title": "Shut down the classic ad-free browsing interface in favor of a slower redesign",
+      "description": "Shut down the classic ad-free browsing interface in favor of a slower redesign.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "videohost",
+      "date": "08/12/2010",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "studybuddy",
+      "date": "24/09/2022",
+      "type": "algorithm-change",
+      "title": "Changed the the free tier algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the the free tier algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "dateswipe",
+      "date": "07/03/2015",
+      "type": "feature-removal",
+      "title": "Pulled the unlimited storage option from the settings menu with no migration path",
+      "description": "Pulled the unlimited storage option from the settings menu with no migration path."
+    },
+    {
+      "company": "travelnest",
+      "date": "21/04/2010",
+      "type": "data-selling",
+      "title": "Removed the opt-out for public API access data collection",
+      "description": "Removed the opt-out for public API access data collection."
+    },
+    {
+      "company": "worksuite",
+      "date": "27/07/2026",
+      "type": "feature-removal",
+      "title": "Discontinued unlimited storage support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued unlimited storage support for third-party apps, forcing everyone into the official app."
+    },
+    {
+      "company": "jobfinder",
+      "date": "15/05/2016",
+      "type": "feature-removal",
+      "title": "Pulled the the export tool option from the settings menu with no migration path",
+      "description": "Pulled the the export tool option from the settings menu with no migration path.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "shopmart",
+      "date": "13/05/2010",
+      "type": "algorithm-change",
+      "title": "Reordered the free tier to favor engagement bait over content users follow",
+      "description": "Reordered the free tier to favor engagement bait over content users follow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "cloudnotes",
+      "date": "26/09/2023",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Premium plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Premium plan, tripling the renewal cost."
+    },
+    {
+      "company": "stockpile",
+      "date": "26/01/2015",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in customer support chat",
+      "description": "Silently deprioritized links leaving the platform in customer support chat."
+    },
+    {
+      "company": "clouddrop",
+      "date": "08/11/2015",
+      "type": "account-restriction",
+      "title": "Limited the mobile app access unless users upgrade to a paid account",
+      "description": "Limited the mobile app access unless users upgrade to a paid account."
+    },
+    {
+      "company": "chatrelay",
+      "date": "19/04/2013",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the desktop app pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the desktop app pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "stockpile",
+      "date": "06/05/2025",
+      "type": "algorithm-change",
+      "title": "Changed the ad-free browsing algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the ad-free browsing algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "shopmart",
+      "date": "20/06/2008",
+      "type": "feature-removal",
+      "title": "Removed the ability to export your data without warning",
+      "description": "Removed the ability to export your data without warning.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "worksuite",
+      "date": "28/09/2011",
+      "type": "free-removal",
+      "title": "Capped free background playback usage to a fraction of what it used to allow",
+      "description": "Capped free background playback usage to a fraction of what it used to allow."
+    },
+    {
+      "company": "ridewave",
+      "date": "24/03/2012",
+      "type": "free-removal",
+      "title": "Removed the free trial for Basic, requiring payment upfront",
+      "description": "Removed the free trial for Basic, requiring payment upfront."
+    },
+    {
+      "company": "jobfinder",
+      "date": "24/05/2020",
+      "type": "data-selling",
+      "title": "Began sharing direct messaging usage data with undisclosed third parties",
+      "description": "Began sharing direct messaging usage data with undisclosed third parties."
+    },
+    {
+      "company": "worksuite",
+      "date": "19/11/2015",
+      "type": "price-increase",
+      "title": "Raised the Pro plan price by 10% with no new features",
+      "description": "Raised the Pro plan price by 10% with no new features.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "jobfinder",
+      "date": "22/12/2010",
+      "type": "price-increase",
+      "title": "Quietly increased Standard subscription pricing in most regions",
+      "description": "Quietly increased Standard subscription pricing in most regions."
+    },
+    {
+      "company": "grocerygo",
+      "date": "01/12/2011",
+      "type": "feature-removal",
+      "title": "Discontinued chronological feed support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued chronological feed support for third-party apps, forcing everyone into the official app.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "petpal",
+      "date": "04/07/2025",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to direct messaging that can't be skipped or muted",
+      "description": "Added autoplay video ads to direct messaging that can't be skipped or muted."
+    },
+    {
+      "company": "recipebox",
+      "date": "11/01/2017",
+      "type": "data-selling",
+      "title": "Removed the opt-out for unlimited edits data collection",
+      "description": "Removed the opt-out for unlimited edits data collection."
+    },
+    {
+      "company": "tunewell",
+      "date": "20/10/2018",
+      "type": "feature-removal",
+      "title": "Discontinued direct messaging support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued direct messaging support for third-party apps, forcing everyone into the official app."
+    },
+    {
+      "company": "chatterbox",
+      "date": "07/04/2018",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside the referral program search with no clear labeling",
+      "description": "Rolled out sponsored results inside the referral program search with no clear labeling."
+    },
+    {
+      "company": "filmreel",
+      "date": "13/01/2011",
+      "type": "data-selling",
+      "title": "Removed the opt-out for search filters data collection",
+      "description": "Removed the opt-out for search filters data collection."
+    },
+    {
+      "company": "filmreel",
+      "date": "27/05/2010",
+      "type": "account-restriction",
+      "title": "Limited the classic dashboard access unless users upgrade to a paid account",
+      "description": "Limited the classic dashboard access unless users upgrade to a paid account."
+    },
+    {
+      "company": "cloudpix",
+      "date": "10/02/2023",
+      "type": "price-increase",
+      "title": "Raised the Standard plan price by 20% with no new features",
+      "description": "Raised the Standard plan price by 20% with no new features."
+    },
+    {
+      "company": "cloudpix",
+      "date": "06/06/2020",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in public API access after promising an ad-light experience",
+      "description": "Increased ad frequency in public API access after promising an ad-light experience."
+    },
+    {
+      "company": "shopmart",
+      "date": "22/12/2012",
+      "type": "free-removal",
+      "title": "Removed the free trial for Plus, requiring payment upfront",
+      "description": "Removed the free trial for Plus, requiring payment upfront.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "18/07/2024",
+      "type": "data-selling",
+      "title": "Began sharing search filters usage data with undisclosed third parties",
+      "description": "Began sharing search filters usage data with undisclosed third parties."
+    },
+    {
+      "company": "recipebox",
+      "date": "06/08/2011",
+      "type": "price-increase",
+      "title": "Added a mandatory platform fee that effectively raises the price by 50%",
+      "description": "Added a mandatory platform fee that effectively raises the price by 50%.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "mapquestly",
+      "date": "05/11/2014",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the classic dashboard",
+      "description": "Started requiring phone verification to keep using the classic dashboard."
+    },
+    {
+      "company": "homehub",
+      "date": "28/08/2024",
+      "type": "free-removal",
+      "title": "Ended the free tier of public API access, moving it entirely behind a paywall",
+      "description": "Ended the free tier of public API access, moving it entirely behind a paywall.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "hometeam",
+      "date": "25/10/2011",
+      "type": "algorithm-change",
+      "title": "Adjusted unlimited storage ranking to boost the company's own products first",
+      "description": "Adjusted unlimited storage ranking to boost the company's own products first.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "16/10/2026",
+      "type": "account-restriction",
+      "title": "Locked accounts out of ad-free browsing pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of ad-free browsing pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "gamevault",
+      "date": "08/12/2018",
+      "type": "free-removal",
+      "title": "Removed the free trial for Family, requiring payment upfront",
+      "description": "Removed the free trial for Family, requiring payment upfront.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudpix",
+      "date": "22/12/2023",
+      "type": "free-removal",
+      "title": "Started charging for offline downloads that was previously included for everyone",
+      "description": "Started charging for offline downloads that was previously included for everyone.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "inboxly",
+      "date": "07/08/2014",
+      "type": "price-increase",
+      "title": "Quietly increased Plus subscription pricing in most regions",
+      "description": "Quietly increased Plus subscription pricing in most regions."
+    },
+    {
+      "company": "jobfinder",
+      "date": "05/07/2024",
+      "type": "account-restriction",
+      "title": "Locked accounts out of ad-free browsing pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of ad-free browsing pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "recipebox",
+      "date": "12/01/2022",
+      "type": "feature-removal",
+      "title": "Deprecated the chronological feed feature, pushing users toward the paid tier",
+      "description": "Deprecated the chronological feed feature, pushing users toward the paid tier.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "carsharex",
+      "date": "20/08/2019",
+      "type": "free-removal",
+      "title": "Removed the free trial for Pro, requiring payment upfront",
+      "description": "Removed the free trial for Pro, requiring payment upfront."
+    },
+    {
+      "company": "gamevault",
+      "date": "27/12/2016",
+      "type": "account-restriction",
+      "title": "Limited notification controls access unless users upgrade to a paid account",
+      "description": "Limited notification controls access unless users upgrade to a paid account.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "21/05/2014",
+      "type": "feature-removal",
+      "title": "Pulled the the desktop app option from the settings menu with no migration path",
+      "description": "Pulled the the desktop app option from the settings menu with no migration path."
+    },
+    {
+      "company": "weathernow",
+      "date": "20/05/2015",
+      "type": "feature-removal",
+      "title": "Killed offline access to offline downloads, requiring a constant connection",
+      "description": "Killed offline access to offline downloads, requiring a constant connection."
+    },
+    {
+      "company": "carsharex",
+      "date": "17/11/2017",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to ad-free browsing that can't be skipped or muted",
+      "description": "Added autoplay video ads to ad-free browsing that can't be skipped or muted."
+    },
+    {
+      "company": "studybuddy",
+      "date": "03/08/2011",
+      "type": "algorithm-change",
+      "title": "Changed the offline downloads algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the offline downloads algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "carsharex",
+      "date": "02/04/2024",
+      "type": "data-selling",
+      "title": "Began sharing third-party integrations usage data with undisclosed third parties",
+      "description": "Began sharing third-party integrations usage data with undisclosed third parties."
+    },
+    {
+      "company": "studybuddy",
+      "date": "13/07/2016",
+      "type": "data-selling",
+      "title": "Began sharing the classic dashboard usage data with undisclosed third parties",
+      "description": "Began sharing the classic dashboard usage data with undisclosed third parties."
+    },
+    {
+      "company": "shopmart",
+      "date": "28/05/2024",
+      "type": "algorithm-change",
+      "title": "Reordered background playback to favor engagement bait over content users follow",
+      "description": "Reordered background playback to favor engagement bait over content users follow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "filmreel",
+      "date": "03/11/2018",
+      "type": "price-increase",
+      "title": "Quietly increased Pro subscription pricing in most regions",
+      "description": "Quietly increased Pro subscription pricing in most regions.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "stockpile",
+      "date": "16/02/2022",
+      "type": "price-increase",
+      "title": "Quietly increased Plus subscription pricing in most regions",
+      "description": "Quietly increased Plus subscription pricing in most regions.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "parkeasy",
+      "date": "28/01/2021",
+      "type": "algorithm-change",
+      "title": "Changed the widget support algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the widget support algorithm to prioritize sponsored content over relevance.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "worksuite",
+      "date": "16/02/2013",
+      "type": "price-increase",
+      "title": "Quietly increased Family subscription pricing in most regions",
+      "description": "Quietly increased Family subscription pricing in most regions."
+    },
+    {
+      "company": "gamevault",
+      "date": "16/03/2026",
+      "type": "free-removal",
+      "title": "Ended the free tier of offline downloads, moving it entirely behind a paywall",
+      "description": "Ended the free tier of offline downloads, moving it entirely behind a paywall.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "worksuite",
+      "date": "18/01/2008",
+      "type": "algorithm-change",
+      "title": "Adjusted the export tool ranking to boost the company's own products first",
+      "description": "Adjusted the export tool ranking to boost the company's own products first.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "travelnest",
+      "date": "12/12/2015",
+      "type": "feature-removal",
+      "title": "Discontinued the mobile app support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued the mobile app support for third-party apps, forcing everyone into the official app."
+    },
+    {
+      "company": "worksuite",
+      "date": "10/05/2009",
+      "type": "feature-removal",
+      "title": "Pulled the the mobile app option from the settings menu with no migration path",
+      "description": "Pulled the the mobile app option from the settings menu with no migration path."
+    },
+    {
+      "company": "budgetize",
+      "date": "06/04/2019",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in the export tool",
+      "description": "Silently deprioritized links leaving the platform in the export tool."
+    },
+    {
+      "company": "chatterbox",
+      "date": "21/12/2019",
+      "type": "price-increase",
+      "title": "Introduced a new Standard tier that costs 10% more for what used to be standard",
+      "description": "Introduced a new Standard tier that costs 10% more for what used to be standard.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "petpal",
+      "date": "23/01/2008",
+      "type": "data-selling",
+      "title": "Began sharing search filters usage data with undisclosed third parties",
+      "description": "Began sharing search filters usage data with undisclosed third parties.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudnotes",
+      "date": "22/12/2014",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to unlimited storage that can't be skipped or muted",
+      "description": "Added autoplay video ads to unlimited storage that can't be skipped or muted.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "videohost",
+      "date": "20/12/2024",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the mobile app, even for paying subscribers",
+      "description": "Started inserting ads into the mobile app, even for paying subscribers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "14/12/2019",
+      "type": "feature-removal",
+      "title": "Removed the ability to use the app without an account without warning",
+      "description": "Removed the ability to use the app without an account without warning."
+    },
+    {
+      "company": "bookish",
+      "date": "22/01/2008",
+      "type": "feature-removal",
+      "title": "Shut down the classic widget support interface in favor of a slower redesign",
+      "description": "Shut down the classic widget support interface in favor of a slower redesign.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "photoloop",
+      "date": "08/11/2016",
+      "type": "account-restriction",
+      "title": "Locked accounts out of widget support pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of widget support pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "11/11/2019",
+      "type": "free-removal",
+      "title": "Removed the free trial for Basic, requiring payment upfront",
+      "description": "Removed the free trial for Basic, requiring payment upfront."
+    },
+    {
+      "company": "photoloop",
+      "date": "09/10/2022",
+      "type": "feature-removal",
+      "title": "Removed the ability to use the app without an account without warning",
+      "description": "Removed the ability to use the app without an account without warning.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "travelnest",
+      "date": "23/07/2016",
+      "type": "account-restriction",
+      "title": "Limited direct messaging access unless users upgrade to a paid account",
+      "description": "Limited direct messaging access unless users upgrade to a paid account."
+    },
+    {
+      "company": "cloudnotes",
+      "date": "16/10/2021",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling unlimited storage data to advertisers",
+      "description": "Updated the privacy policy to allow selling unlimited storage data to advertisers."
+    },
+    {
+      "company": "grocerygo",
+      "date": "14/02/2023",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Plus plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Plus plan, tripling the renewal cost."
+    },
+    {
+      "company": "shopmart",
+      "date": "24/11/2021",
+      "type": "feature-removal",
+      "title": "Discontinued background playback support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued background playback support for third-party apps, forcing everyone into the official app.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "cloudpix",
+      "date": "28/08/2024",
+      "type": "free-removal",
+      "title": "Removed the free trial for Family, requiring payment upfront",
+      "description": "Removed the free trial for Family, requiring payment upfront."
+    },
+    {
+      "company": "bookish",
+      "date": "18/04/2024",
+      "type": "feature-removal",
+      "title": "Pulled the background playback option from the settings menu with no migration path",
+      "description": "Pulled the background playback option from the settings menu with no migration path."
+    },
+    {
+      "company": "studybuddy",
+      "date": "11/08/2023",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using public API access",
+      "description": "Started requiring phone verification to keep using public API access.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "jobfinder",
+      "date": "01/09/2025",
+      "type": "data-selling",
+      "title": "Removed the opt-out for offline downloads data collection",
+      "description": "Removed the opt-out for offline downloads data collection.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudsign",
+      "date": "27/01/2019",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in the mobile app",
+      "description": "Silently deprioritized links leaving the platform in the mobile app.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ticketrun",
+      "date": "25/02/2011",
+      "type": "free-removal",
+      "title": "Locked previously free the referral program exports behind the premium plan",
+      "description": "Locked previously free the referral program exports behind the premium plan.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "streamflix",
+      "date": "05/08/2013",
+      "type": "free-removal",
+      "title": "Started charging for the free tier that was previously included for everyone",
+      "description": "Started charging for the free tier that was previously included for everyone."
+    },
+    {
+      "company": "tunewell",
+      "date": "23/04/2022",
+      "type": "free-removal",
+      "title": "Locked previously free chronological feed exports behind the premium plan",
+      "description": "Locked previously free chronological feed exports behind the premium plan."
+    },
+    {
+      "company": "tunewell",
+      "date": "05/09/2026",
+      "type": "account-restriction",
+      "title": "Limited the desktop app access unless users upgrade to a paid account",
+      "description": "Limited the desktop app access unless users upgrade to a paid account."
+    },
+    {
+      "company": "streamflix",
+      "date": "13/02/2012",
+      "type": "algorithm-change",
+      "title": "Changed the search filters algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the search filters algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "cloudsign",
+      "date": "15/05/2018",
+      "type": "free-removal",
+      "title": "Locked previously free customer support chat exports behind the premium plan",
+      "description": "Locked previously free customer support chat exports behind the premium plan.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "worksuite",
+      "date": "12/11/2017",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in search filters after promising an ad-light experience",
+      "description": "Increased ad frequency in search filters after promising an ad-light experience.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "gamevault",
+      "date": "17/01/2021",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in unlimited storage",
+      "description": "Silently deprioritized links leaving the platform in unlimited storage.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "chatterbox",
+      "date": "22/05/2013",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside the desktop app search with no clear labeling",
+      "description": "Rolled out sponsored results inside the desktop app search with no clear labeling."
+    },
+    {
+      "company": "linkedout",
+      "date": "28/10/2011",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the free tier",
+      "description": "Started requiring phone verification to keep using the free tier."
+    },
+    {
+      "company": "inboxly",
+      "date": "14/07/2020",
+      "type": "data-selling",
+      "title": "Removed the opt-out for search filters data collection",
+      "description": "Removed the opt-out for search filters data collection."
+    },
+    {
+      "company": "filmreel",
+      "date": "24/09/2026",
+      "type": "feature-removal",
+      "title": "Removed the ability to disable tracking without warning",
+      "description": "Removed the ability to disable tracking without warning."
+    },
+    {
+      "company": "fitpulse",
+      "date": "24/03/2013",
+      "type": "account-restriction",
+      "title": "Locked accounts out of chronological feed pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of chronological feed pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "photoloop",
+      "date": "01/05/2026",
+      "type": "ad-injection",
+      "title": "Started inserting ads into the export tool, even for paying subscribers",
+      "description": "Started inserting ads into the export tool, even for paying subscribers."
+    },
+    {
+      "company": "ticketrun",
+      "date": "18/10/2023",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling the desktop app data to advertisers",
+      "description": "Updated the privacy policy to allow selling the desktop app data to advertisers."
+    },
+    {
+      "company": "ridewave",
+      "date": "14/03/2024",
+      "type": "account-restriction",
+      "title": "Locked accounts out of background playback pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of background playback pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "chatrelay",
+      "date": "07/05/2019",
+      "type": "ad-injection",
+      "title": "Started inserting ads into ad-free browsing, even for paying subscribers",
+      "description": "Started inserting ads into ad-free browsing, even for paying subscribers."
+    },
+    {
+      "company": "budgetize",
+      "date": "22/01/2015",
+      "type": "ad-injection",
+      "title": "Started inserting ads into unlimited storage, even for paying subscribers",
+      "description": "Started inserting ads into unlimited storage, even for paying subscribers."
+    },
+    {
+      "company": "petpal",
+      "date": "15/09/2024",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using customer support chat",
+      "description": "Started requiring phone verification to keep using customer support chat."
+    },
+    {
+      "company": "shopmart",
+      "date": "01/09/2025",
+      "type": "free-removal",
+      "title": "Capped free background playback usage to a fraction of what it used to allow",
+      "description": "Capped free background playback usage to a fraction of what it used to allow.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mapquestly",
+      "date": "24/12/2025",
+      "type": "data-selling",
+      "title": "Removed the opt-out for chronological feed data collection",
+      "description": "Removed the opt-out for chronological feed data collection."
+    },
+    {
+      "company": "ridewave",
+      "date": "02/02/2010",
+      "type": "data-selling",
+      "title": "Removed the opt-out for the classic dashboard data collection",
+      "description": "Removed the opt-out for the classic dashboard data collection.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "homehub",
+      "date": "13/11/2022",
+      "type": "algorithm-change",
+      "title": "Changed the notification controls algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the notification controls algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "payquick",
+      "date": "17/06/2010",
+      "type": "feature-removal",
+      "title": "Pulled the unlimited storage option from the settings menu with no migration path",
+      "description": "Pulled the unlimited storage option from the settings menu with no migration path.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "newsfeedr",
+      "date": "27/07/2020",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the free tier pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the free tier pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "cloudpix",
+      "date": "26/11/2017",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Standard plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Standard plan, tripling the renewal cost."
+    },
+    {
+      "company": "streamflix",
+      "date": "24/04/2017",
+      "type": "algorithm-change",
+      "title": "Reordered unlimited storage to favor engagement bait over content users follow",
+      "description": "Reordered unlimited storage to favor engagement bait over content users follow."
+    },
+    {
+      "company": "mapquestly",
+      "date": "22/03/2011",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside direct messaging search with no clear labeling",
+      "description": "Rolled out sponsored results inside direct messaging search with no clear labeling."
+    },
+    {
+      "company": "clouddrop",
+      "date": "07/02/2016",
+      "type": "account-restriction",
+      "title": "Locked accounts out of browser extensions pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of browser extensions pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "jobfinder",
+      "date": "11/04/2010",
+      "type": "free-removal",
+      "title": "Started charging for the classic dashboard that was previously included for everyone",
+      "description": "Started charging for the classic dashboard that was previously included for everyone."
+    },
+    {
+      "company": "grocerygo",
+      "date": "01/03/2021",
+      "type": "free-removal",
+      "title": "Locked previously free the free tier exports behind the premium plan",
+      "description": "Locked previously free the free tier exports behind the premium plan."
+    },
+    {
+      "company": "dateswipe",
+      "date": "15/08/2023",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the export tool",
+      "description": "Started requiring phone verification to keep using the export tool."
+    },
+    {
+      "company": "videohost",
+      "date": "09/04/2025",
+      "type": "ad-injection",
+      "title": "Started inserting ads into direct messaging, even for paying subscribers",
+      "description": "Started inserting ads into direct messaging, even for paying subscribers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "ridewave",
+      "date": "18/05/2025",
+      "type": "feature-removal",
+      "title": "Shut down the classic offline downloads interface in favor of a slower redesign",
+      "description": "Shut down the classic offline downloads interface in favor of a slower redesign."
+    },
+    {
+      "company": "cloudpix",
+      "date": "17/09/2022",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling ad-free browsing data to advertisers",
+      "description": "Updated the privacy policy to allow selling ad-free browsing data to advertisers.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "studybuddy",
+      "date": "06/03/2022",
+      "type": "free-removal",
+      "title": "Locked previously free offline downloads exports behind the premium plan",
+      "description": "Locked previously free offline downloads exports behind the premium plan."
+    },
+    {
+      "company": "recipebox",
+      "date": "09/02/2015",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling widget support data to advertisers",
+      "description": "Updated the privacy policy to allow selling widget support data to advertisers."
+    },
+    {
+      "company": "inboxly",
+      "date": "02/01/2022",
+      "type": "feature-removal",
+      "title": "Killed offline access to chronological feed, requiring a constant connection",
+      "description": "Killed offline access to chronological feed, requiring a constant connection."
+    },
+    {
+      "company": "tunewell",
+      "date": "19/06/2020",
+      "type": "data-selling",
+      "title": "Removed the opt-out for third-party integrations data collection",
+      "description": "Removed the opt-out for third-party integrations data collection.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "budgetize",
+      "date": "20/08/2023",
+      "type": "free-removal",
+      "title": "Removed the free trial for Family, requiring payment upfront",
+      "description": "Removed the free trial for Family, requiring payment upfront.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "weathernow",
+      "date": "06/03/2012",
+      "type": "price-increase",
+      "title": "Added a mandatory platform fee that effectively raises the price by 15%",
+      "description": "Added a mandatory platform fee that effectively raises the price by 15%."
+    },
+    {
+      "company": "cloudsign",
+      "date": "07/08/2023",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling unlimited edits data to advertisers",
+      "description": "Updated the privacy policy to allow selling unlimited edits data to advertisers."
+    },
+    {
+      "company": "bookish",
+      "date": "17/11/2012",
+      "type": "data-selling",
+      "title": "Began sharing offline downloads usage data with undisclosed third parties",
+      "description": "Began sharing offline downloads usage data with undisclosed third parties.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "recipebox",
+      "date": "07/02/2017",
+      "type": "price-increase",
+      "title": "Raised the Plus plan price by 20% with no new features",
+      "description": "Raised the Plus plan price by 20% with no new features."
+    },
+    {
+      "company": "cloudsign",
+      "date": "06/05/2024",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to direct messaging that can't be skipped or muted",
+      "description": "Added autoplay video ads to direct messaging that can't be skipped or muted."
+    },
+    {
+      "company": "ticketrun",
+      "date": "17/04/2008",
+      "type": "algorithm-change",
+      "title": "Changed the unlimited edits algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the unlimited edits algorithm to prioritize sponsored content over relevance."
+    },
+    {
+      "company": "cloudnotes",
+      "date": "25/09/2025",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using the referral program",
+      "description": "Started requiring phone verification to keep using the referral program.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "23/01/2019",
+      "type": "ad-injection",
+      "title": "Rolled out sponsored results inside the referral program search with no clear labeling",
+      "description": "Rolled out sponsored results inside the referral program search with no clear labeling."
+    },
+    {
+      "company": "streamcast",
+      "date": "25/08/2016",
+      "type": "price-increase",
+      "title": "Added a mandatory platform fee that effectively raises the price by 15%",
+      "description": "Added a mandatory platform fee that effectively raises the price by 15%.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "mealbox",
+      "date": "17/10/2008",
+      "type": "free-removal",
+      "title": "Locked previously free search filters exports behind the premium plan",
+      "description": "Locked previously free search filters exports behind the premium plan.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "budgetize",
+      "date": "14/03/2011",
+      "type": "feature-removal",
+      "title": "Pulled the chronological feed option from the settings menu with no migration path",
+      "description": "Pulled the chronological feed option from the settings menu with no migration path."
+    },
+    {
+      "company": "homehub",
+      "date": "18/07/2014",
+      "type": "free-removal",
+      "title": "Locked previously free the export tool exports behind the premium plan",
+      "description": "Locked previously free the export tool exports behind the premium plan."
+    },
+    {
+      "company": "cloudpix",
+      "date": "25/06/2026",
+      "type": "price-increase",
+      "title": "Quietly increased Family subscription pricing in most regions",
+      "description": "Quietly increased Family subscription pricing in most regions."
+    },
+    {
+      "company": "worksuite",
+      "date": "17/04/2011",
+      "type": "account-restriction",
+      "title": "Locked accounts out of unlimited storage pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of unlimited storage pending 'unusual activity' review with no appeal process."
+    },
+    {
+      "company": "cloudmail",
+      "date": "27/02/2008",
+      "type": "account-restriction",
+      "title": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process",
+      "description": "Locked accounts out of the referral program pending 'unusual activity' review with no appeal process.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "cloudpix",
+      "date": "02/10/2010",
+      "type": "algorithm-change",
+      "title": "Adjusted public API access ranking to boost the company's own products first",
+      "description": "Adjusted public API access ranking to boost the company's own products first."
+    },
+    {
+      "company": "studybuddy",
+      "date": "28/04/2008",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in the referral program",
+      "description": "Silently deprioritized links leaving the platform in the referral program."
+    },
+    {
+      "company": "newsfeedr",
+      "date": "21/04/2019",
+      "type": "price-increase",
+      "title": "Raised the Family plan price by 25% with no new features",
+      "description": "Raised the Family plan price by 25% with no new features.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "bookish",
+      "date": "24/01/2024",
+      "type": "feature-removal",
+      "title": "Discontinued customer support chat support for third-party apps, forcing everyone into the official app",
+      "description": "Discontinued customer support chat support for third-party apps, forcing everyone into the official app.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "mealbox",
+      "date": "07/10/2015",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in search filters",
+      "description": "Silently deprioritized links leaving the platform in search filters."
+    },
+    {
+      "company": "studybuddy",
+      "date": "11/05/2024",
+      "type": "algorithm-change",
+      "title": "Changed the third-party integrations algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the third-party integrations algorithm to prioritize sponsored content over relevance.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "weathernow",
+      "date": "25/06/2015",
+      "type": "free-removal",
+      "title": "Locked previously free notification controls exports behind the premium plan",
+      "description": "Locked previously free notification controls exports behind the premium plan."
+    },
+    {
+      "company": "ticketrun",
+      "date": "23/11/2015",
+      "type": "algorithm-change",
+      "title": "Changed the widget support algorithm to prioritize sponsored content over relevance",
+      "description": "Changed the widget support algorithm to prioritize sponsored content over relevance.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "payquick",
+      "date": "13/02/2017",
+      "type": "ad-injection",
+      "title": "Increased ad frequency in the mobile app after promising an ad-light experience",
+      "description": "Increased ad frequency in the mobile app after promising an ad-light experience."
+    },
+    {
+      "company": "ridewave",
+      "date": "22/12/2013",
+      "type": "algorithm-change",
+      "title": "Reordered widget support to favor engagement bait over content users follow",
+      "description": "Reordered widget support to favor engagement bait over content users follow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "jobfinder",
+      "date": "27/04/2015",
+      "type": "data-selling",
+      "title": "Updated the privacy policy to allow selling unlimited edits data to advertisers",
+      "description": "Updated the privacy policy to allow selling unlimited edits data to advertisers.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "hometeam",
+      "date": "28/01/2025",
+      "type": "free-removal",
+      "title": "Capped free unlimited storage usage to a fraction of what it used to allow",
+      "description": "Capped free unlimited storage usage to a fraction of what it used to allow."
+    },
+    {
+      "company": "travelnest",
+      "date": "13/05/2024",
+      "type": "algorithm-change",
+      "title": "Silently deprioritized links leaving the platform in widget support",
+      "description": "Silently deprioritized links leaving the platform in widget support.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "recipebox",
+      "date": "25/11/2020",
+      "type": "price-increase",
+      "title": "Raised the Pro plan price by 60% with no new features",
+      "description": "Raised the Pro plan price by 60% with no new features.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "ticketrun",
+      "date": "19/07/2014",
+      "type": "feature-removal",
+      "title": "Killed offline access to the mobile app, requiring a constant connection",
+      "description": "Killed offline access to the mobile app, requiring a constant connection.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "payquick",
+      "date": "11/10/2023",
+      "type": "free-removal",
+      "title": "Locked previously free third-party integrations exports behind the premium plan",
+      "description": "Locked previously free third-party integrations exports behind the premium plan."
+    },
+    {
+      "company": "gamevault",
+      "date": "06/08/2016",
+      "type": "ad-injection",
+      "title": "Added autoplay video ads to chronological feed that can't be skipped or muted",
+      "description": "Added autoplay video ads to chronological feed that can't be skipped or muted."
+    },
+    {
+      "company": "worksuite",
+      "date": "05/04/2020",
+      "type": "algorithm-change",
+      "title": "Reordered unlimited storage to favor engagement bait over content users follow",
+      "description": "Reordered unlimited storage to favor engagement bait over content users follow.",
+      "source": "https://example-blog.test/post"
+    },
+    {
+      "company": "cloudpix",
+      "date": "09/05/2023",
+      "type": "account-restriction",
+      "title": "Started requiring phone verification to keep using direct messaging",
+      "description": "Started requiring phone verification to keep using direct messaging."
+    },
+    {
+      "company": "recipebox",
+      "date": "27/08/2016",
+      "type": "feature-removal",
+      "title": "Pulled the unlimited storage option from the settings menu with no migration path",
+      "description": "Pulled the unlimited storage option from the settings menu with no migration path.",
+      "source": "https://example-news.test/article"
+    },
+    {
+      "company": "grocerygo",
+      "date": "04/07/2008",
+      "type": "data-selling",
+      "title": "Began sharing third-party integrations usage data with undisclosed third parties",
+      "description": "Began sharing third-party integrations usage data with undisclosed third parties."
+    },
+    {
+      "company": "cloudsign",
+      "date": "17/11/2018",
+      "type": "price-increase",
+      "title": "Ended promotional pricing on the Premium plan, tripling the renewal cost",
+      "description": "Ended promotional pricing on the Premium plan, tripling the renewal cost."
+    },
+    {
+      "company": "grocerygo",
+      "date": "21/07/2018",
+      "type": "feature-removal",
+      "title": "Pulled the the referral program option from the settings menu with no migration path",
+      "description": "Pulled the the referral program option from the settings menu with no migration path."
+    },
+    {
+      "company": "recipebox",
+      "date": "10/11/2018",
+      "type": "ad-injection",
+      "title": "Started inserting ads into public API access, even for paying subscribers",
+      "description": "Started inserting ads into public API access, even for paying subscribers."
+    },
+    {
+      "company": "cloudsign",
+      "date": "28/03/2013",
+      "type": "data-selling",
+      "title": "Began sharing third-party integrations usage data with undisclosed third parties",
+      "description": "Began sharing third-party integrations usage data with undisclosed third parties.",
+      "source": "https://example-news.test/article"
+    }
+  ]
+}

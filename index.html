@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Enshittification Timeline</title>
+        <meta
+            name="description"
+            content="A running ledger of features removed, prices hiked, and free things quietly taken away."
+        />
+
+        <meta property="og:title" content="Enshittification Timeline" />
+        <meta
+            property="og:description"
+            content="A running ledger of features removed, prices hiked, and free things quietly taken away."
+        />
+        <meta property="og:type" content="website" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+    <body>
+        <header class="site-header">
+            <div class="header-inner">
+                <nav class="icon-nav" aria-label="Project links">
+                    <a
+                        class="icon-btn"
+                        href="https://github.com/KlutzyBubbles/enshitification"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="View source on GitHub"
+                        title="View source on GitHub"
+                    >
+                        <svg
+                            viewBox="0 0 24 24"
+                            width="20"
+                            height="20"
+                            aria-hidden="true"
+                        >
+                            <path
+                                fill="currentColor"
+                                d="M12 .5C5.73.5.75 5.48.75 11.75c0 5.02 3.26 9.28 7.78 10.78.57.1.78-.25.78-.55v-1.93c-3.16.69-3.83-1.52-3.83-1.52-.52-1.31-1.26-1.66-1.26-1.66-1.03-.7.08-.69.08-.69 1.14.08 1.74 1.17 1.74 1.17 1.01 1.73 2.65 1.23 3.3.94.1-.73.4-1.23.72-1.51-2.52-.29-5.17-1.26-5.17-5.6 0-1.24.44-2.25 1.17-3.04-.12-.29-.51-1.45.11-3.02 0 0 .96-.31 3.14 1.16a10.9 10.9 0 0 1 5.72 0c2.18-1.47 3.14-1.16 3.14-1.16.62 1.57.23 2.73.11 3.02.73.79 1.17 1.8 1.17 3.04 0 4.35-2.66 5.31-5.19 5.59.41.35.77 1.04.77 2.1v3.11c0 .3.21.66.79.55A11.26 11.26 0 0 0 23.25 11.75C23.25 5.48 18.27.5 12 .5Z"
+                            />
+                        </svg>
+                    </a>
+                    <a
+                        class="icon-btn"
+                        href="https://github.com/KlutzyBubbles/enshitification/issues/new?template=add-entry.md"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="Suggest an entry on GitHub Issues"
+                        title="Suggest an entry"
+                    >
+                        <svg
+                            viewBox="0 0 24 24"
+                            width="20"
+                            height="20"
+                            aria-hidden="true"
+                        >
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="9.5"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="1.6"
+                            />
+                            <path
+                                d="M12 7v10M7 12h10"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="1.6"
+                                stroke-linecap="round"
+                            />
+                        </svg>
+                    </a>
+                </nav>
+
+                <div class="title-block">
+                    <h1>Enshitification</h1>
+                    <p class="subtitle">
+                        Features removed. Prices hiked. Free things quietly
+                        taken away.
+                    </p>
+                </div>
+            </div>
+        </header>
+
+        <section class="controls" aria-label="Filter timeline">
+            <div class="controls-inner">
+                <label class="search-field">
+                    <svg
+                        viewBox="0 0 24 24"
+                        width="16"
+                        height="16"
+                        aria-hidden="true"
+                    >
+                        <circle
+                            cx="10.5"
+                            cy="10.5"
+                            r="6.5"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.6"
+                        />
+                        <path
+                            d="M20 20l-4.8-4.8"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.6"
+                            stroke-linecap="round"
+                        />
+                    </svg>
+                    <input
+                        type="search"
+                        id="search-input"
+                        placeholder="Search company or complaint…"
+                        aria-label="Search entries"
+                    />
+                </label>
+                <div
+                    id="type-filters"
+                    class="chip-row"
+                    role="group"
+                    aria-label="Filter by type"
+                ></div>
+            </div>
+        </section>
+
+        <main class="timeline-wrap">
+            <div class="timeline-spine" aria-hidden="true"></div>
+            <ol id="timeline" class="timeline" aria-live="polite"></ol>
+            <p id="empty-state" class="empty-state" hidden>
+                No incidents match these filters. Widen the net — there's always
+                another one coming.
+            </p>
+            <p id="loading-state" class="loading-state">Pulling the record…</p>
+        </main>
+
+        <footer class="site-footer">
+            <p>
+                Know something that belongs here?
+                <a
+                    id="gh-issues-link-footer"
+                    href="https://github.com/KlutzyBubbles/enshitification/issues/new?template=add-entry.md"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Suggest it on GitHub</a
+                >.
+            </p>
+        </footer>
+
+        <dialog
+            id="event-dialog"
+            class="event-dialog"
+            aria-labelledby="dialog-title"
+        >
+            <button
+                type="button"
+                id="dialog-close"
+                class="dialog-close"
+                aria-label="Close dialog"
+            >
+                ×
+            </button>
+            <div class="dialog-content">
+                <div class="dialog-meta">
+                    <img id="dialog-icon" class="dialog-icon" src="" alt="" />
+                    <div class="dialog-meta-text">
+                        <p id="dialog-company" class="dialog-company"></p>
+                        <p id="dialog-date" class="dialog-date"></p>
+                    </div>
+                    <span id="dialog-type" class="type-pill"></span>
+                </div>
+                <h2 id="dialog-title"></h2>
+                <p id="dialog-description" class="dialog-description"></p>
+                <a
+                    id="dialog-source"
+                    class="dialog-source"
+                    href=""
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    hidden
+                    >Read the source ↗</a
+                >
+
+                <div class="dialog-share">
+                    <span class="dialog-share-label">Share this incident</span>
+                    <div class="dialog-share-buttons">
+                        <button type="button" id="share-copy" class="share-btn">
+                            Copy link
+                        </button>
+                        <button
+                            type="button"
+                            id="share-native"
+                            class="share-btn"
+                            hidden
+                        >
+                            Share…
+                        </button>
+                        <a
+                            id="share-x"
+                            class="share-btn"
+                            href="#"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            >Share on X</a
+                        >
+                    </div>
+                </div>
+            </div>
+        </dialog>
+
+        <div
+            id="toast"
+            class="toast"
+            role="status"
+            aria-live="polite"
+            hidden
+        ></div>
+
+        <template id="card-template">
+            <li class="timeline-item">
+                <button type="button" class="event-card">
+                    <span class="node" aria-hidden="true"></span>
+                    <span class="card-header">
+                        <img class="card-icon" src="" alt="" />
+                        <span class="card-company"></span>
+                        <span class="card-date"></span>
+                    </span>
+                    <span class="card-title"></span>
+                    <span class="card-type-pill"></span>
+                </button>
+            </li>
+        </template>
+
+        <script type="module" src="js/main.js"></script>
+    </body>
+</html>
